@@ -275,3 +275,20 @@ http://tv.aliflailabd.com:8989/9xm/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Sangeet Bangla
 http://tv.aliflailabd.com:8989/sangeet-bangla/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Mohanagar S01 E01" tvg-logo="https://image.tmdb.org/t/p/original/5awWRsZqZf6Ghi5vyNsYRuEYdsp.jpg" group-title="BANGLADESHI SERIES",Mohanagar S01 E01
+http://45.14.226.28:25461/series/Km543/Km370/2642.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mohanagar S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/iZn6AFpNgvV3AmIwCRe2QvLQFdE.jpg" group-title="BANGLADESHI SERIES",Mohanagar S01 E02
+http://45.14.226.28:25461/series/Km543/Km370/2643.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mohanagar S01 E03" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWJiOGQ5ZTgtNGFkNi00ZGUzLWExYWEtM2ExM2I5Mjk0NGJiXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_UY126_UX224_AL_.jpg" group-title="BANGLADESHI SERIES",Mohanagar S01 E03
+http://45.14.226.28:25461/series/Km543/Km370/2644.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mohanagar S01 E04" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmM4MWIyOTUtNTgyYS00YWQ4LWFiMjktYTQwM2E2YTA5NzA3XkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_UY126_UX224_AL_.jpg" group-title="BANGLADESHI SERIES",Mohanagar S01 E04
+http://45.14.226.28:25461/series/Km543/Km370/2645.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mohanagar S01 E05" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTc3MTI3NDktYmY1Yy00OGMzLTk4ZDAtNjdlOWZkOTg4NjFlXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_UY126_UX224_AL_.jpg" group-title="BANGLADESHI SERIES",Mohanagar S01 E05
+http://45.14.226.28:25461/series/Km543/Km370/2646.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mohanagar S01 E06" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVkZWY3NjctYzMyNC00ODkzLWI2ZTItNDkzMTY2MWUwNzYxXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_UY126_UX224_AL_.jpg" group-title="BANGLADESHI SERIES",Mohanagar S01 E06
+http://45.14.226.28:25461/series/Km543/Km370/2647.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mohanagar S01 E07" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWNiZTZiMTItZjVkNC00NDdlLTg2ZGUtZjMzY2QwNDA2ZjY3XkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_UY126_UX224_AL_.jpg" group-title="BANGLADESHI SERIES",Mohanagar S01 E07
+http://45.14.226.28:25461/series/Km543/Km370/2648.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mohanagar S01 E08" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQ0OTk3ZmUtMjZjNy00YWQ2LWFiNDgtNTMwYjlhMWIzNWE5XkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_UY126_UX224_AL_.jpg" group-title="BANGLADESHI SERIES",Mohanagar S01 E08
+http://45.14.226.28:25461/series/Km543/Km370/2649.mkv
+

@@ -170,3 +170,8 @@ http://45.14.226.28:25461/series/Km543/Km370/2649.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pink ( 2016 )" tvg-logo="https://i.ytimg.com/vi/AL2TShb6fFs/maxresdefault.jpg" group-title="Best Of  Amitabh Bachchan",Pink ( 2016 )
 http://45.14.226.28:25461/movie/Km543/Km370/1974.mkv
 
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="IN | Zee TV HD" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="INDIAN ENTERTAINMENT",IN | Zee TV HD
+http://opplex.tv:8080/live/easyzayan/easytvtech21718/66163.m3u8
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="IN | Star Plus HD" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="INDIAN ENTERTAINMENT",IN | Star Plus HD
+http://opplex.tv:8080/live/easyzayan/easytvtech21718/66165.m3u8
+

@@ -58,3 +58,15 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="itv" tvg-logo="https://play-lh.googleusercontent.com/Y0nwwjoRJ9yTw_tpvw2Hqa2Im8KW0qCWb0b5tR87-_42bo2XMQ9ngIDGZuTP66exCA " group-title="Bangla",itv
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Music" ,9xm
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music" ,9X Jalwa
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music" ,Zoom
+http://103.81.104.118/hls/stream8.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music" ,MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music" ,Zing
+https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music" ,Sangeet Bangla
+

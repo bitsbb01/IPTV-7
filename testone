@@ -134,6 +134,8 @@ Hindi Movies
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi Movies", And Pictures HD 
 http://tv.pmcon.net/hls/stream14.m3u8
+#EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://www.kcvnet.in/images/chanellogo/b_flix_movies_in.png",BFlix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi Movies", Colors Cineplex HD 
 http://tv.pmcon.net/hls/stream29.m3u8
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://is.gd/C51PJe",Colors Cineplex
@@ -187,6 +189,16 @@ http://tv.pmcon.net/hls/stream4.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music" ,9X Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/M16djBW/9xjhakaas-purple.png",9x Jhakaas
+https://wyjs.tk/index.php/https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/Px04s8Y/Screenshot-1-removebg-preview.png",B4U Music
+https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://is.gd/nqKl1Z",Channel V
+http://mygoodstream.pw/proxy.php/https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/m7RjnNH.png",MTV Beats HD
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/18798
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/0BldI8H.png",MTV India
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/6219
 #EXTINF:-1 tvg-logo="" group-title="Music" ,Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music" ,Sangeet Bangla
@@ -197,16 +209,36 @@ http://tv.pmcon.net/hls/stream8.m3u8
 
 Documentary
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary", Discovery Bangla HD 
-http://tv.pmcon.net/hls/stream9.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary", National Geographic Bangla HD 
-http://tv.pmcon.net/hls/stream13.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentary", Travel XP Bangla HD 
-http://tv.pmcon.net/hls/stream37.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
 http://tv.pmcon.net/hls/stream6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary", Discovery HD 
+http://tv.pmcon.net/hls/stream9.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png",Discovery Science [US]
+http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-discoveryscience.stream/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/History_TV18.png",History Channel-Hindi
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/18794
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png",Love Nature HD
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/72629
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Nasa Tv
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary", National Geographic HD 
+http://tv.pmcon.net/hls/stream13.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/Ay4EtVz.png",Nat Geo Wild HD
+http://31.220.41.88:8081/live/us-natgeowild.stream/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/U39wkxW.png",Sony BBC Earth 
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/6226
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/P7JRmze.png",TLC HD
+http://idvd.multitvsolution.com/idvo/tlchd_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentary", Travel XP HD 
+http://tv.pmcon.net/hls/stream37.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://is.gd/3kLvW6",Discovery Turbo [English]
+http://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 
+Cooking
 
+#EXTINF:-1 group-title="Cooking" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",Food Network
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/3991
+#EXTINF:-1 group-title="Cooking" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png",Hum Masala
 
 Sports
 
@@ -231,6 +263,8 @@ http://tv.pmcon.net/hls/stream34.m3u8
 
 Religious
 
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.ibb.co/R9FLtGM/BTV-Live-removebg-preview.png",ATN Islamic
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJMc4VQ.png" group-title="Religious", Macca 
 http://tv.pmcon.net/hls/stream33.m3u8
 

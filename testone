@@ -1,6 +1,6 @@
 #EXTM3U
 
-
+News
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF " group-title="News",ATN News
 http://iptvbd.jagobd.com:1931/boishakhi/atnws-sg.stream/chunks.m3u8
@@ -10,6 +10,8 @@ http://tv.pmcon.net/hls/stream22.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png " group-title="News",Dbc News
 http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/chunks.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png",EKATTOR TV HD [2]
+http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png " group-title="News",Independent
 http://iptvbd.jagobd.com:1931/boishakhi/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png " group-title="News",News 24
@@ -23,6 +25,7 @@ http://tv.pmcon.net/hls/stream35.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJTT2Pq.png" group-title="News", BBC World 
 http://tv.pmcon.net/hls/stream36.m3u8
 
+Bangladeshi Bangla
 
 
 
@@ -73,7 +76,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/songsodtv-world.stream/chunks.m3u8
 
 
 
-
+Indian Bangla
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD 
 http://tv.pmcon.net/hls/stream28.m3u8
@@ -88,7 +91,7 @@ http://tv.pmcon.net/hls/stream30.m3u8
 
 
 
-
+Bangla Online
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ktv" tvg-logo="https://upload.wikimedia.org/wikipedia/ta/f/f4/%E0%AE%95%E0%AF%87_%E0%AE%A4%E0%AF%8A%E0%AE%B2%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AE%BF.gif " group-title="Bangla Online Tv",Ktv
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
@@ -101,7 +104,7 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8
 
 
 
-
+Indian Bangla Movies
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla Movies", Jalsha Movies HD 
 http://tv.pmcon.net/hls/stream27.m3u8
@@ -110,7 +113,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 
 
 
-
+Hindi 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
 http://sonyiptv.net:8080/live/prasad124/00000/147747.m3u8
@@ -125,7 +128,7 @@ https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 
 
 
-
+Hindi Movies
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi Movies", And Pictures HD 
 http://tv.pmcon.net/hls/stream14.m3u8
@@ -146,7 +149,7 @@ https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 
 
 
-
+English Movies
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="BDIX", AXN 
 http://tv.pmcon.net/hls/stream2.m3u8
@@ -157,7 +160,7 @@ http://tv.pmcon.net/hls/stream3.m3u8
 
 
 
-
+Kids
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="BDIX", Nick 
 http://tv.pmcon.net/hls/stream23.m3u8
@@ -168,7 +171,7 @@ http://tv.pmcon.net/hls/stream5.m3u8
 
 
 
-
+Music
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Music", 9XM 
 http://tv.pmcon.net/hls/stream4.m3u8
@@ -184,6 +187,7 @@ http://tv.pmcon.net/hls/stream8.m3u8
 
 
 
+Documentary
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary", Discovery Bangla HD 
 http://tv.pmcon.net/hls/stream9.m3u8
@@ -196,7 +200,7 @@ http://tv.pmcon.net/hls/stream6.m3u8
 
 
 
-
+Sports
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports", PTV Sports 
 http://tv.pmcon.net/hls/stream11.m3u8
@@ -217,7 +221,7 @@ http://tv.pmcon.net/hls/stream34.m3u8
 
 
 
-
+Religious
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJMc4VQ.png" group-title="Religious", Macca 
 http://tv.pmcon.net/hls/stream33.m3u8

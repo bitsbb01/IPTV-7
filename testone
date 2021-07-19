@@ -117,8 +117,8 @@ Hindi
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
 http://sonyiptv.net:8080/live/prasad124/00000/147747.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
-http://tv.pmcon.net/hls/stream28.m3u8
+#EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2017/02/colorshdlogo002.jpg" group-title="Hindi", Colors HD 
+http://203.80.191.3:8089/load/somoynews/chunks.m3u8?nimblesessionid=852946
 #EXTINF:-1 group-title="Hindi" tvg-logo="http://www.kcvnet.in/images/chanellogo/manoranjan_tv_in.png",Manoranjan Tv
 http://idvd.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD 
@@ -161,22 +161,22 @@ https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 
 English Movies
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="BDIX", AXN 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English Movies", AXN 
 http://tv.pmcon.net/hls/stream2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="BDIX", Sony Pix HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English Movies", Sony Pix HD 
 http://tv.pmcon.net/hls/stream1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="BDIX", Star Movies 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English Movies", Star Movies 
 http://tv.pmcon.net/hls/stream3.m3u8
 
 
 
 Kids
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="BDIX", Nick 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick 
 http://tv.pmcon.net/hls/stream23.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="BDIX", Sony Yay 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay 
 http://tv.pmcon.net/hls/stream32.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T1vgYzE.png" group-title="BDIX",pogo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T1vgYzE.png" group-title="Kids",pogo
 http://tv.pmcon.net/hls/stream5.m3u8
 
 
@@ -213,9 +213,9 @@ Documentary
 http://tv.pmcon.net/hls/stream6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary", Discovery HD 
 http://tv.pmcon.net/hls/stream9.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png",Discovery Science [US]
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png",Discovery Science
 http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-discoveryscience.stream/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/History_TV18.png",History Channel-Hindi
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/History_TV18.png",History Channel
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/18794
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png",Love Nature HD
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/72629
@@ -231,14 +231,13 @@ http://cloudcdn.tk:80/tuUO22w8572/442wnM854/6226
 http://idvd.multitvsolution.com/idvo/tlchd_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentary", Travel XP HD 
 http://tv.pmcon.net/hls/stream37.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://is.gd/3kLvW6",Discovery Turbo [English]
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://is.gd/3kLvW6",Discovery Turbo
 http://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 
 Cooking
 
 #EXTINF:-1 group-title="Cooking" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",Food Network
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/3991
-#EXTINF:-1 group-title="Cooking" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png",Hum Masala
 
 Sports
 

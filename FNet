@@ -8,7 +8,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/atnws-sg.stream/chunks.m3u8
 http://tv.pmcon.net/hls/stream22.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png " group-title="News",Dbc News
 http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png",EKATTOR TV HD
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png",Ekattor TV HD
 http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png " group-title="News",Independent
 http://iptvbd.jagobd.com:1931/boishakhi/independent-8-org.stream/chunks.m3u8
@@ -29,41 +29,41 @@ Bangladeshi Bangla
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ananda tv" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/4/43/%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg/280px-%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg " group-title="Bangladeshi Bangla",Ananda tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ananda tv" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/4/43/%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg/280px-%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg " group-title="Bangladeshi Bangla",Ananda TV
 http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png " group-title="Bangladeshi Bangla",ATN bangla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png " group-title="Bangladeshi Bangla",ATN Bangla
 http://iptvbd.jagobd.com:1931/boishakhi/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Bangla_Tv_Logo.jpg " group-title="Bangladeshi Bangla",Bangla tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Bangla_Tv_Logo.jpg " group-title="Bangladeshi Bangla",Bangla TV
 http://iptvbd.jagobd.com:1931/boishakhi/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Banglavision" tvg-logo="https://apkplz.net/storage/images/net/gurujibd/banglavision/net.gurujibd.banglavision_1.png " group-title="Bangladeshi Bangla",Banglavision
 http://iptvbd.jagobd.com:1931/boishakhi/banglav000.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png " group-title="Bangladeshi Bangla",Bijoy tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png " group-title="Bangladeshi Bangla",Bijoy TV
 http://iptvbd.jagobd.com:1931/boishakhi/bijoy00.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boishakhitv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png " group-title="Bangladeshi Bangla",Boishakhi tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boishakhitv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png " group-title="Bangladeshi Bangla",Boishakhi TV
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boishakhi tv plus" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/12/boishakhitvplus.jpeg " group-title="Bangladeshi Bangla",Boishakhi tv plus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boishakhi tv plus" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/12/boishakhitvplus.jpeg " group-title="Bangladeshi Bangla",Boishakhi TV Plus
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhiplus.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Btv tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png/revision/latest?cb=20210409072736 " group-title="Bangladeshi Bangla",Btv 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Btv tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png/revision/latest?cb=20210409072736 " group-title="Bangladeshi Bangla",BTV 
 http://iptvbd.jagobd.com:1931/boishakhi/btvnational-ctg.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel i" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png " group-title="Bangladeshi Bangla",Channel i
 http://iptvbd.jagobd.com:1931/boishakhi/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png " group-title="Bangladeshi Bangla",Channel 9
 http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekushe tv" tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/ekushey-tv.jpg " group-title="Bangladeshi Bangla",Ekushe tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekushe tv" tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/ekushey-tv.jpg " group-title="Bangladeshi Bangla",Ekushe TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masranga tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg " group-title="Bangladeshi Bangla",Masranga TV HD
 http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mohona tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mohona_Logo.JPG/230px-Mohona_Logo.JPG " group-title="Bangladeshi Bangla",Mohona tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mohona tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mohona_Logo.JPG/230px-Mohona_Logo.JPG " group-title="Bangladeshi Bangla",Mohona TV
 http://iptvbd.jagobd.com:1931/boishakhi/mohonatv00000223232244556633.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mytv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png " group-title="Bangladeshi Bangla",My tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mytv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png " group-title="Bangladeshi Bangla",My TV
 http://iptvbd.jagobd.com:1931/boishakhi/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Bangladeshi Bangla", Nagorik 
 http://tv.pmcon.net/hls/stream24.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangladeshi Bangla",Rtv
 http://iptvbd.jagobd.com:1931/boishakhi/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png " group-title="Bangladeshi Bangla",Sa Tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png " group-title="Bangladeshi Bangla",Sa TV
 http://iptvbd.jagobd.com:1931/boishakhi/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sanshad tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg " group-title="Bangladeshi Bangla",Sanshad tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sanshad tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg " group-title="Bangladeshi Bangla",Sanshad TV
 http://iptvbd.jagobd.com:1931/boishakhi/songsodtv-world.stream/chunks.m3u8
 
 
@@ -94,7 +94,7 @@ http://tv.pmcon.net/hls/stream31.m3u8
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD 
 http://tv.pmcon.net/hls/stream30.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Zee_Bangla_New_Logo.jpg/220px-Zee_Bangla_New_Logo.jpg" group-title="Indian Bangla",ZEE BANGLA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Zee_Bangla_New_Logo.jpg/220px-Zee_Bangla_New_Logo.jpg" group-title="Indian Bangla",Zee Bangla
 https://d2k667g61yse6h.cloudfront.net/101.m3u8
 
 
@@ -121,7 +121,7 @@ http://sonyiptv.net:8080/live/prasad124/00000/147747.m3u8
 http://tv.pmcon.net/hls/stream38.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD
 http://tv.pmcon.net/hls/stream38.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="Hindi",Sony Sab
+#EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="Hindi",Sony SAB
 http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Hindi",Sony SAB HD
 https://jio.instream.ml/jio.php?c=Sony_SAB_HD&q=800&e=.m3u8
@@ -147,7 +147,7 @@ https://wyjs.tk/index.php/https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanM
 http://103.213.238.70:80/SonyMaxHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/800px-Sony_MAX.svg.png" group-title="Hindi Movies",Sony Max
 http://208.115.215.42/Sony_Max_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg",SONY Wah
+#EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg",Sony Wah
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies", Star Gold HD 
 http://tv.pmcon.net/hls/stream19.m3u8
@@ -179,7 +179,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
 Kids
 
-#EXTINF: -1 tvg-logo="" group-title="Kids", GUBBARE
+#EXTINF: -1 tvg-logo="" group-title="Kids", Gubbare
 https://d2061ne4i4l8ek.cloudfront.net/GUBBARE.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick 
 http://tv.pmcon.net/hls/stream23.m3u8
@@ -210,13 +210,13 @@ http://iptvbd.jagobd.com:1931/boishakhi/gaanbangla-8-orgd.stream/chunks.m3u8
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/18798
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/0BldI8H.png",MTV India
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/6219
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sangeet Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="Music",Sangeet Bangla
+https://dhauizqk3uwxi.cloudfront.net/SANGEET_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music" ,Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sangeet Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="Music",SANGEET BANGLA
-https://dhauizqk3uwxi.cloudfront.net/SANGEET_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="Music", Zoom 
 http://tv.pmcon.net/hls/stream8.m3u8
-#EXTINF: -1 tvg-logo="" group-title="Music", ZOOM
+#EXTINF: -1 tvg-logo="" group-title="Music", Zoom
 https://d4r942xafddk2.cloudfront.net/ZOOM.m3u8
 
 

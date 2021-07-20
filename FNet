@@ -6,8 +6,6 @@ News
 http://iptvbd.jagobd.com:1931/boishakhi/atnws-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="News", Channel 24 
 http://tv.pmcon.net/hls/stream22.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png " group-title="News",Channel 24
-http://iptvbd.jagobd.com:1931/boishakhi/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png " group-title="News",Dbc News
 http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png",EKATTOR TV HD
@@ -18,12 +16,12 @@ http://iptvbd.jagobd.com:1931/boishakhi/independent-8-org.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z2QvpTn.png" group-title="News", Somoy 
 http://tv.pmcon.net/hls/stream21.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png " group-title="News",Somoy
-http://iptvbd.jagobd.com:1931/boishakhi/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dQrdh2F.png" group-title="News", Al Jazeera 
 http://tv.pmcon.net/hls/stream35.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJTT2Pq.png" group-title="News", BBC World 
 http://tv.pmcon.net/hls/stream36.m3u8
+
+
 
 Bangladeshi Bangla
 
@@ -76,6 +74,18 @@ http://iptvbd.jagobd.com:1931/boishakhi/songsodtv-world.stream/chunks.m3u8
 
 
 
+Bangla Online
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ktv" tvg-logo="https://upload.wikimedia.org/wikipedia/ta/f/f4/%E0%AE%95%E0%AF%87_%E0%AE%A4%E0%AF%8A%E0%AE%B2%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AE%BF.gif " group-title="Bangla Online Tv",Ktv
+https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khusbo tv" tvg-logo="https://1.bp.blogspot.com/-5tGF6dQFsdM/X5rlfx1rudI/AAAAAAAABjM/YoV7bum8Xt4LIZau1c6faScovgIfTkkhgCLcBGAsYHQ/w800/images%2B%25281%2529.jpeg " group-title="Bangla Online Tv",Khusbo tv
+https://d2my7pmu7z3zc5.cloudfront.net/KHUSBOO_TV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Janmovumi" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniCcSrTg-fRuwBjKTOTCeS76G0j1poT7p57pemv=s900-c-k-c0x00ffffff-no-rj " group-title="Bangla Online Tv",Janmovumi
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="itv" tvg-logo="https://play-lh.googleusercontent.com/Y0nwwjoRJ9yTw_tpvw2Hqa2Im8KW0qCWb0b5tR87-_42bo2XMQ9ngIDGZuTP66exCA " group-title="Bangla Online Tv",itv
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
+
+
 Indian Bangla
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD 
@@ -90,17 +100,6 @@ https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 http://tv.pmcon.net/hls/stream30.m3u8
 
 
-
-Bangla Online
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ktv" tvg-logo="https://upload.wikimedia.org/wikipedia/ta/f/f4/%E0%AE%95%E0%AF%87_%E0%AE%A4%E0%AF%8A%E0%AE%B2%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AE%BF.gif " group-title="Bangla Online Tv",Ktv
-https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khusbo tv" tvg-logo="https://1.bp.blogspot.com/-5tGF6dQFsdM/X5rlfx1rudI/AAAAAAAABjM/YoV7bum8Xt4LIZau1c6faScovgIfTkkhgCLcBGAsYHQ/w800/images%2B%25281%2529.jpeg " group-title="Bangla Online Tv",Khusbo tv
-https://d2my7pmu7z3zc5.cloudfront.net/KHUSBOO_TV.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Janmovumi" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniCcSrTg-fRuwBjKTOTCeS76G0j1poT7p57pemv=s900-c-k-c0x00ffffff-no-rj " group-title="Bangla Online Tv",Janmovumi
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="itv" tvg-logo="https://play-lh.googleusercontent.com/Y0nwwjoRJ9yTw_tpvw2Hqa2Im8KW0qCWb0b5tR87-_42bo2XMQ9ngIDGZuTP66exCA " group-title="Bangla Online Tv",itv
-http://162.244.81.142:1935/live/livestream/playlist.m3u8
 
 
 
@@ -132,6 +131,7 @@ https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 
 Hindi Movies
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi Movies", And Pictures HD 
 http://tv.pmcon.net/hls/stream14.m3u8
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://www.kcvnet.in/images/chanellogo/b_flix_movies_in.png",BFlix Movies
@@ -150,11 +150,11 @@ https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 http://tv.pmcon.net/hls/stream19.m3u8
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png",Star Gold 2
 https://wyjs.tk/index.php/http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi Movie", UTV Action 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi Movies", UTV Action 
 http://tv.pmcon.net/hls/stream7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Movie", Zee Cinema HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Movies", Zee Cinema HD 
 http://tv.pmcon.net/hls/stream25.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi Movie", Zee Bolywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi Movies", Zee Bolywood
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 
 
@@ -176,8 +176,7 @@ Kids
 http://tv.pmcon.net/hls/stream23.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay 
 http://tv.pmcon.net/hls/stream32.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T1vgYzE.png" group-title="Kids",pogo
-http://tv.pmcon.net/hls/stream5.m3u8
+
 
 
 
@@ -185,8 +184,6 @@ Music
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Music", 9XM 
 http://tv.pmcon.net/hls/stream4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music" ,9xm
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music" ,9X Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/M16djBW/9xjhakaas-purple.png",9x Jhakaas
@@ -211,6 +208,8 @@ Documentary
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
 http://tv.pmcon.net/hls/stream6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T1vgYzE.png" group-title="Documentary",BBC Earth
+http://tv.pmcon.net/hls/stream5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary", Discovery HD 
 http://tv.pmcon.net/hls/stream9.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png",Discovery Science
@@ -266,8 +265,3 @@ Religious
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJMc4VQ.png" group-title="Religious", Macca 
 http://tv.pmcon.net/hls/stream33.m3u8
-
-
-
-
-

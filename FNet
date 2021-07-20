@@ -92,7 +92,8 @@ http://tv.pmcon.net/hls/stream31.m3u8
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD 
 http://tv.pmcon.net/hls/stream30.m3u8
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Zee_Bangla_New_Logo.jpg/220px-Zee_Bangla_New_Logo.jpg" group-title="Indian Bangla",ZEE BANGLA
+https://d2k667g61yse6h.cloudfront.net/101.m3u8
 
 
 
@@ -183,10 +184,14 @@ https://wyjs.tk/index.php/https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.i
 https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://is.gd/nqKl1Z",Channel V
 http://mygoodstream.pw/proxy.php/https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/8zWynKG/2021-05-04-03-55-56.png",Gaan Bangla
+http://iptvbd.jagobd.com:1931/boishakhi/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/m7RjnNH.png",MTV Beats HD
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/18798
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/0BldI8H.png",MTV India
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/6219
+#EXTINF:-1 tvg-name="Music Mastii" tvg-logo="" group-title="Music",Music Mastii
+PT1nb0VLdVZVMVNaMmxHVC9nVGR6MG1MNFZHWnVsMkxwa0dhME5YWU5oQ2JsNW1iaGgyUXZVbWRweDBMcGhHZHpGV2J2UW5ibFJuYnZOMEwxZ2pMd1lUTXVrVE94NHlNd0V6THZvRGMwUkhh
 #EXTINF:-1 tvg-logo="" group-title="Music" ,Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music" ,Sangeet Bangla
@@ -245,7 +250,8 @@ http://tv.pmcon.net/hls/stream16.m3u8
 http://tv.pmcon.net/hls/stream12.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Cricket 
 http://tv.pmcon.net/hls/stream34.m3u8
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
 
 Religious

@@ -292,8 +292,8 @@ http://103.109.56.116/live/skyfeed1022/index.m3u8
 http://tv.pmcon.net/hls/stream12.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Cricket 
 http://tv.pmcon.net/hls/stream34.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YWMxSxI.jpg" group-title="Sports", T Sports
+https://m3u-editor.com/serve/92a672c0-e895-11eb-a1b2-d9c786caa461/339891698
 
 
 Religious

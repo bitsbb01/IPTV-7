@@ -96,6 +96,8 @@ http://tv.pmcon.net/hls/stream26.m3u8
 https://d3t45f9t5re4rv.cloudfront.net/RUPASHI_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha HD 
 http://tv.pmcon.net/hls/stream31.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/71JVait.jpg" group-title="Indian Bangla", Sony Aath HD
+https://m3u-editor.com/serve/92a672c0-e895-11eb-a1b2-d9c786caa461/339891726
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla", Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD 
@@ -182,16 +184,18 @@ http://212.224.98.196:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=
 
 English Movies
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="English Movies", &PriveHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="English Movies", & Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/1280px-Fox_Crime_2017.svg.png" group-title="English Movies", Fox Crime
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fox_Family_Movies_logo.svg/1200px-Fox_Family_Movies_logo.svg.png" group-title="English Movies", Fox Family HD
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Ah8ljUw.jpg" group-title="English Movies", Fox Movies Action
+https://m3u-editor.com/serve/92a672c0-e895-11eb-a1b2-d9c786caa461/339891860
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English Movies", Sony Pix HD 
 http://tv.pmcon.net/hls/stream1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English Movies", Star Movies 
-http://tv.pmcon.net/hls/stream3.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/fUlJsrN.jpg" group-title="English Movies", Star Movies SD
+https://m3u-editor.com/serve/92a672c0-e895-11eb-a1b2-d9c786caa461/339891890
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cafe HD" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" group-title="English Movies",Zee Cafe HD
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 

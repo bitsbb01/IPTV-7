@@ -379,5 +379,7 @@ Test
 http://203.80.191.3:8089/load/sonymaxhd/chunks.m3u8?nimblesessionid=1179029
 #EXTINF:-1 group-title="Test" tvg-logo="https://i.ibb.co/8zWynKG/2021-05-04-03-55-56.png",Gaan Bangla
 http://203.80.191.3:8089/load/gaanbangla/chunks.m3u8?nimblesessionid=1183196
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.ibb.co/8zWynKG/2021-05-04-03-55-56.png",Gaan Bangla2
+http://203.80.191.3:8089/load/gaanbangla/chunks.m3u8?nimblesessionid=1187372
 #EXTINF:-1 group-title="Test" tvg-logo="https://www.comparedth.com/files/upload_files/thumb/1521195180_IC-262.png",MNX
 http://203.80.191.3:8089/nimble_live/mnx/chunks.m3u8?nimblesessionid=1183338

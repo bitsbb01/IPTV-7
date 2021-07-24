@@ -8,8 +8,12 @@ http://iptvbd.jagobd.com:1931/boishakhi/atnws-sg.stream/chunks.m3u8
 http://tv.pmcon.net/hls/stream22.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png " group-title="News",DBC News
 http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangladeshi", Desh TV
+http://103.205.133.19/hls/deshtv.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png",Ekattor TV HD
 http://103.109.56.116/live/skyfeed1003/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png",Ekattor TV 
+http://103.205.133.19/hls/ekatoortv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png " group-title="News",Independent
 http://iptvbd.jagobd.com:1931/boishakhi/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/500px-JamunaTV_logo.jpg " group-title="News",Jamuna Tv
@@ -131,6 +135,8 @@ https://d3t45f9t5re4rv.cloudfront.net/RUPASHI_BANGLA.m3u8
 http://tv.pmcon.net/hls/stream31.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="http://www.kcvnet.in/images/chanellogo/sony_aath_in.png",Sony Aath
 http://103.205.133.19/hls/sony8.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Indian Bangla", Sony Aath 2
+http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla", Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD 
@@ -158,6 +164,8 @@ https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
 http://idvd.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
 http://sonyiptv.net:8080/live/prasad124/00000/147747.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment 2
+http://103.205.133.19/hls/chs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD 
 http://tv.pmcon.net/hls/stream38.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD
@@ -175,6 +183,8 @@ Hindi Movies
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi Movies", And Pictures HD 
 http://tv.pmcon.net/hls/stream14.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Hindi Movies", And Picture 2
+http://103.205.133.19/hls/andpicture.m3u8
 #EXTINF: -1 tvg-logo="" group-title="Hindi Movies", B4U Kadak
 https://d207nlzuawwh55.cloudfront.net/B4U_KADAK.m3u8
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://www.kcvnet.in/images/chanellogo/b_flix_movies_in.png",BFlix Movies
@@ -233,6 +243,8 @@ https://wyjs.tk/index.php/http://31.220.41.88:8081/live/us-hbofamily.stream/play
 http://watchindia.net:8880/live/33253/72963/2102.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English Movies", Sony Pix HD 
 http://tv.pmcon.net/hls/stream1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English Movies", Sony Pix 2
+http://103.205.133.19/hls/sonypix.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fUlJsrN.jpg" group-title="English Movies", Star Movies SD
 https://m3u-editor.com/serve/92a672c0-e895-11eb-a1b2-d9c786caa461/339891890
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cafe HD" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" group-title="English Movies",Zee Cafe HD
@@ -257,6 +269,8 @@ https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
 https://d3pf2g6avq2sfr.cloudfront.net/DHOOM_MUSIC.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/8zWynKG/2021-05-04-03-55-56.png",Gaan Bangla
 http://iptvbd.jagobd.com:1931/boishakhi/gaanbangla-8-orgd.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangladeshi", Gaan Bangla 2
+http://103.205.133.19/hls/gaanbangla.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/m7RjnNH.png",MTV Beats HD
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/18798
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/0BldI8H.png",MTV India

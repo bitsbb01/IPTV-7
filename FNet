@@ -8,8 +8,6 @@ http://iptvbd.jagobd.com:1931/boishakhi/atnws-sg.stream/chunks.m3u8
 http://tv.pmcon.net/hls/stream22.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png " group-title="News",DBC News
 http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangladeshi", Desh TV
-http://103.205.133.19/hls/deshtv.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png",Ekattor TV HD
 http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png",Ekattor TV 
@@ -61,6 +59,8 @@ http://iptvbd.jagobd.com:1931/boishakhi/channeli-8-org.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi Bangla" tvg-logo="https://i.ibb.co/vxZ6Myf/deepto-television-removebg-preview.png",Deepto HD
 http://103.43.148.202:1931/iptv/deeptotv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangladeshi Bangla", Desh TV
+http://103.205.133.19/hls/deshtv.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekushe tv" tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/ekushey-tv.jpg " group-title="Bangladeshi Bangla",Ekushe TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -200,6 +200,8 @@ https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies", Star Gold HD 
 http://tv.pmcon.net/hls/stream19.m3u8
+#EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png",Star Gold 2
+http://103.153.39.34:8000/play/a06p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi Movies", UTV Action 
 http://tv.pmcon.net/hls/stream7.m3u8
@@ -269,7 +271,7 @@ https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
 https://d3pf2g6avq2sfr.cloudfront.net/DHOOM_MUSIC.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/8zWynKG/2021-05-04-03-55-56.png",Gaan Bangla
 http://iptvbd.jagobd.com:1931/boishakhi/gaanbangla-8-orgd.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangladeshi", Gaan Bangla 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Music", Gaan Bangla 2
 http://103.205.133.19/hls/gaanbangla.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/m7RjnNH.png",MTV Beats HD
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/18798

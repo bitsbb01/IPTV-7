@@ -24,7 +24,7 @@ http://tv.pmcon.net/hls/stream21.m3u8
 http://tv.pmcon.net/hls/stream35.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJTT2Pq.png" group-title="News", BBC World 
 http://tv.pmcon.net/hls/stream36.m3u8
-#EXTINF:0 type="News" channelId="-1" aspect-ratio="16:9", CNN HD
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/CNN/CNN-Logo.wine.png" group-title="News", CNN HD
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
 
@@ -64,8 +64,12 @@ http://103.205.133.19/hls/deshtv.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekushe tv" tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/ekushey-tv.jpg " group-title="Bangladeshi Bangla",Ekushe TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/sWsLA1l.jpg" group-title="Bangladeshi Bangla", Ekushe TV
+https://m3u-editor.com/serve/2ab353e0-ed64-11eb-934a-1d9847424420/343511480
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7ZKXcZg.png" group-title="Bangladeshi Bangla", GAZI TV
 https://m3u-editor.com/serve/92a672c0-e895-11eb-a1b2-d9c786caa461/339891697
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7ZKXcZg.png" group-title="Bangladeshi Bangla", GAZI TV
+https://m3u-editor.com/serve/2ab353e0-ed64-11eb-934a-1d9847424420/343511055
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masranga tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg " group-title="Bangladeshi Bangla",Masranga TV HD
 http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mohona tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mohona_Logo.JPG/230px-Mohona_Logo.JPG " group-title="Bangladeshi Bangla",Mohona TV
@@ -158,8 +162,12 @@ https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 
 Hindi 
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/DKQU4HC.png" group-title="Hindi", &TV HD
+https://m3u-editor.com/serve/2ab353e0-ed64-11eb-934a-1d9847424420/343511110
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/tv18-colors-tv-hd-logo.jpg", Colors HD
 https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/DWlfnN8.png" group-title="Hindi", Colors HD
+https://m3u-editor.com/serve/2ab353e0-ed64-11eb-934a-1d9847424420/343511099
 #EXTINF:-1 group-title="Hindi" tvg-logo="http://www.kcvnet.in/images/chanellogo/manoranjan_tv_in.png",Manoranjan Tv
 http://idvd.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
@@ -173,6 +181,8 @@ http://tv.pmcon.net/hls/stream38.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Hindi",Sony SAB HD
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/iGjG8wn.png" group-title="Hindi", SONY SAB FHD
+https://m3u-editor.com/serve/2ab353e0-ed64-11eb-934a-1d9847424420/343511107
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 
@@ -195,16 +205,24 @@ http://tv.pmcon.net/hls/stream29.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://i.ibb.co/dtCdQF6/Zee-Action-new-removebg-preview.png",Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/evnv0Ni.jpg" group-title="Hindi Movies", SONY MAX SD
+https://m3u-editor.com/serve/2ab353e0-ed64-11eb-934a-1d9847424420/343511123
+#EXTINF: -1 tvg-logo="https://i.imgur.com/evnv0Ni.jpg" group-title="Hindi Movies", SONY MAX HD
+https://m3u-editor.com/serve/2ab353e0-ed64-11eb-934a-1d9847424420/343511124
+#EXTINF: -1 tvg-logo="https://i.imgur.com/evnv0Ni.jpg" group-title="Hindi Movies", SONY MAX FHD
+https://m3u-editor.com/serve/2ab353e0-ed64-11eb-934a-1d9847424420/343511125
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg",Sony Wah
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies", Star Gold HD 
 http://tv.pmcon.net/hls/stream19.m3u8
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png",Star Gold 2
 http://103.153.39.34:8000/play/a06p/index.m3u8
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/RCe7288.jpg" group-title="Hindi Movies", Star Gold 2
+https://m3u-editor.com/serve/2ab353e0-ed64-11eb-934a-1d9847424420/343511149
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi Movies", UTV Action 
 http://tv.pmcon.net/hls/stream7.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="Hindi Movies", UTV Action
+https://m3u-editor.com/serve/2ab353e0-ed64-11eb-934a-1d9847424420/343511539
 #EXTINF: -1 tvg-logo="" group-title="Hindi Movies", Zee Anmol
 https://d2bfv5viypt204.cloudfront.net/Z_ANMOL.m3u8
 #EXTINF:0 tvg-language="" tvg-logo="" group-title="Hindi Movies",Zee Action
@@ -213,6 +231,8 @@ https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Movies", Zee Cinema HD 
 http://tv.pmcon.net/hls/stream25.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/MINFDa9.png" group-title="Hindi Movies", Zee Cinema SD
+https://m3u-editor.com/serve/2ab353e0-ed64-11eb-934a-1d9847424420/343511134
 
 
 
@@ -293,6 +313,8 @@ http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
 http://70.39.83.58:8278/disneyjuniorhindikdin/playlist.m3u8
 #EXTINF: -1 tvg-logo="" group-title="Kids", Gubbare
 https://d2061ne4i4l8ek.cloudfront.net/GUBBARE.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YgDuDJU.jpg" group-title="Kids", DISNEY
+https://m3u-editor.com/serve/2ab353e0-ed64-11eb-934a-1d9847424420/343511436
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids", Discovery Kids
 https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick 
@@ -341,7 +363,8 @@ Cooking
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SyxpPHT.jpg" group-title="Cooking", Food
 https://m3u-editor.com/serve/92a672c0-e895-11eb-a1b2-d9c786caa461/339891824
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SyxpPHT.jpg" group-title="Cooking", Discovery Food
+https://m3u-editor.com/serve/2ab353e0-ed64-11eb-934a-1d9847424420/343511181
 
 
 

@@ -8,8 +8,6 @@ http://iptvbd.jagobd.com:1931/boishakhi/atnws-sg.stream/chunks.m3u8
 http://tv.pmcon.net/hls/stream22.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png " group-title="News",DBC News
 http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png",Ekattor TV HD
-http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png",Ekattor TV 
 http://103.205.133.19/hls/ekatoortv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png " group-title="News",Independent
@@ -65,14 +63,10 @@ http://103.43.148.202:1931/iptv/deeptotv.stream/chunks.m3u8
 http://103.205.133.19/hls/deeptotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangladeshi Bangla", Desh TV
 http://103.205.133.19/hls/deshtv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekushe tv" tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/ekushey-tv.jpg " group-title="Bangladeshi Bangla",Ekushe TV
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/sWsLA1l.jpg" group-title="Bangladeshi Bangla", Ekushe TV
-https://m3u-editor.com/serve/2ab353e0-ed64-11eb-934a-1d9847424420/343511480
-#EXTINF: -1 tvg-logo="https://i.imgur.com/7ZKXcZg.png" group-title="Bangladeshi Bangla", GAZI TV
-https://m3u-editor.com/serve/92a672c0-e895-11eb-a1b2-d9c786caa461/339891697
-#EXTINF: -1 tvg-logo="https://i.imgur.com/7ZKXcZg.png" group-title="Bangladeshi Bangla", GAZI TV
-https://m3u-editor.com/serve/2ab353e0-ed64-11eb-934a-1d9847424420/343511055
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi Bangla",17.Ekushey TV
+http://103.205.133.19/hls/ekushey.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladeshi Bangla",GAZI TV
+https://cdn.cinemabaaz.live/j-GTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masranga tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg " group-title="Bangladeshi Bangla",Masranga TV HD
 http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ftu2Rt.jpg" group-title="Bangladeshi Bangla", Maasranga TV HD
@@ -138,8 +132,6 @@ https://tempabs.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFz
 
 Indian Bangla
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD 
-http://tv.pmcon.net/hls/stream28.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla SD
@@ -177,6 +169,8 @@ Hindi
 https://m3u-editor.com/serve/2ab353e0-ed64-11eb-934a-1d9847424420/343511110
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/tv18-colors-tv-hd-logo.jpg", Colors HD
 https://m3u-editor.com/serve/2ab353e0-ed64-11eb-934a-1d9847424420/343511099
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Hindi",135.Colors
+http://103.205.133.19/hls/chc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WmjPBWy.png" group-title="Hindi", Colors Ristey
 http://103.205.133.19/hls/chc.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="http://www.kcvnet.in/images/chanellogo/manoranjan_tv_in.png",Manoranjan Tv
@@ -406,8 +400,8 @@ http://103.109.56.116/live/skyfeed1022/index.m3u8
 http://tv.pmcon.net/hls/stream12.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="Sports", Ten Cricket
 https://m3u-editor.com/serve/92a672c0-e895-11eb-a1b2-d9c786caa461/339892165
-#EXTINF: -1 tvg-logo="https://i.imgur.com/YWMxSxI.jpg" group-title="Sports", T Sports
-https://m3u-editor.com/serve/92a672c0-e895-11eb-a1b2-d9c786caa461/339891698
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports HD
+https://cdn.cinemabaaz.live/j-TSports/tracks-v1a1/mono.m3u8
 
 
 Religious

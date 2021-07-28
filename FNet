@@ -136,13 +136,15 @@ http://tv.pmcon.net/hls/stream26.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ruposhi Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTvqb4PqrO8ohIPKojcopDpi7611EFFiyVt5tTfHEY_5zgUeKh&usqp=CAU" group-title="Indian Bangla",Ruposhi Bangla
 https://d3t45f9t5re4rv.cloudfront.net/RUPASHI_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha HD 
-http://tv.pmcon.net/hls/stream31.m3u8
+https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345094966
+#EXTINF: -1 tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2019/02/starjalshanew001.jpg" group-title="Indian Bangla", Star Jalsha SD
+https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345094963
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="http://www.kcvnet.in/images/chanellogo/sony_aath_in.png",Sony Aath
 http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla", Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD 
-http://tv.pmcon.net/hls/stream30.m3u8
+https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/34509496833
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Zee_Bangla_New_Logo.jpg/220px-Zee_Bangla_New_Logo.jpg" group-title="Indian Bangla",Zee Bangla
 https://d2k667g61yse6h.cloudfront.net/101.m3u8
 
@@ -161,11 +163,13 @@ https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 Hindi 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DKQU4HC.png" group-title="Hindi", &TV HD
-https://m3u-editor.com/serve/2ab353e0-ed64-11eb-934a-1d9847424420/343511110
+https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345094994
 #EXTINF:0 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi",And TV
 http://103.205.133.19/hls/andtv.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/tv18-colors-tv-hd-logo.jpg", Colors 
 http://103.205.133.19/hls/chc.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/tv18-colors-tv-hd-logo.jpg", Colors HD
+https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345094984
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WmjPBWy.png" group-title="Hindi", Colors Ristey
 http://103.205.133.19/hls/chc.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="http://www.kcvnet.in/images/chanellogo/manoranjan_tv_in.png",Manoranjan Tv
@@ -185,6 +189,8 @@ http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 https://m3u-editor.com/serve/2ab353e0-ed64-11eb-934a-1d9847424420/343511107
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV
+https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345094996
 
 
 
@@ -195,6 +201,8 @@ Hindi Movies
 http://tv.pmcon.net/hls/stream14.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Hindi Movies", And Picture 2
 http://103.205.133.19/hls/andpicture.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/DKQU4HC.png" group-title="Hindi", &TV HD
+https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345094995
 #EXTINF: -1 tvg-logo="" group-title="Hindi Movies", B4U Kadak
 https://d207nlzuawwh55.cloudfront.net/B4U_KADAK.m3u8
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://www.kcvnet.in/images/chanellogo/b_flix_movies_in.png",BFlix Movies
@@ -209,26 +217,28 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/evnv0Ni.jpg" group-title="Hindi Movies", Sony Max HD
 http://208.115.215.42:80/Sony_Max_HD/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/evnv0Ni.jpg" group-title="Hindi Movies", SONY MAX HD
-https://m3u-editor.com/serve/2ab353e0-ed64-11eb-934a-1d9847424420/343511124
 #EXTINF: -1 tvg-logo="https://i.imgur.com/evnv0Ni.jpg" group-title="Hindi Movies", SONY MAX FHD
-https://m3u-editor.com/serve/2ab353e0-ed64-11eb-934a-1d9847424420/343511125
+https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345095010
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg",Sony Wah
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies", Star Gold HD 
 http://tv.pmcon.net/hls/stream19.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies", Star Gold HD 2
-http://tv.pmcon.net/hls/stream19.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSFREgfmLhYtcj7MneuoGqnz9Kwf-Abw-6gQ&usqp=CAU" group-title="Hindi Movies", Star Gold Select HD
+https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345095014
 #EXTINF: -1 tvg-logo="https://i.imgur.com/RCe7288.jpg" group-title="Hindi Movies", Star Gold 2
-https://m3u-editor.com/serve/2ab353e0-ed64-11eb-934a-1d9847424420/343511149
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi Movies", UTV Action 
 http://tv.pmcon.net/hls/stream7.m3u8
+#EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRgiNCCfWfINZ6-JhdRImggcdtKmP4JiojofVql=s900-c-k-c0x00ffffff-no-rj" group-title="Hindi Movies", UTV
+https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345095018
+#EXTINF: -1 tvg-logo="https://www.sky.com/contentstack/assets/bltcaeb0983267f4b43/bltb486b94ffaba907b/6005ab504485e50f8f20882a/download" group-title="Hindi Movies", Utsav_Gold
+https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345095033
 #EXTINF: -1 tvg-logo="" group-title="Hindi Movies", Zee Anmol
 https://d2bfv5viypt204.cloudfront.net/Z_ANMOL.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Movies", Zee Cinema HD 
 http://tv.pmcon.net/hls/stream25.m3u8
 #EXTINF: -1 tvg-logo="https://www.pikpng.com/pngl/m/48-485018_zee-cinema-hq-zee-cinema-channel-logo-clipart.png" group-title="Hindi Movies", Zee Cinema SD
-https://m3u-editor.com/serve/2ab353e0-ed64-11eb-934a-1d9847424420/343511134
+https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345095019
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Zeeclassic.png/revision/latest/scale-to-width-down/280?cb=20200803072038" group-title="Hindi Movies", Zee Bolywood
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-language="" tvg-logo="" group-title="Hindi Movies",Zee Action
@@ -245,7 +255,7 @@ English
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN 
 http://tv.pmcon.net/hls/stream2.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_world_in_hd.png" group-title="English", Star World Hd
-http://212.224.98.196:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=
+https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345095131
 
 
 
@@ -269,8 +279,8 @@ https://wyjs.tk/index.php/http://31.220.41.88:8081/live/us-hbofamily.stream/play
 http://watchindia.net:8880/live/33253/72963/2102.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English Movies", Sony Pix
 http://103.205.133.19/hls/sonypix.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/fUlJsrN.jpg" group-title="English Movies", Star Movies SD
-https://m3u-editor.com/serve/92a672c0-e895-11eb-a1b2-d9c786caa461/339891890
+#EXTINF: -1 tvg-logo="https://i.imgur.com/fUlJsrN.jpg" group-title="English Movies", Star Movies HD
+https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345095132
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English Movies", Star Movies 
 http://tv.pmcon.net/hls/stream3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cafe HD" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" group-title="English Movies",Zee Cafe HD

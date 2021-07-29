@@ -99,6 +99,9 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ktv" tvg-logo="https://upload.wikimedia.org/wikipedia/ta/f/f4/%E0%AE%95%E0%AF%87_%E0%AE%A4%E0%AF%8A%E0%AE%B2%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AE%BF.gif " group-title="Bangla Online TV",Ktv
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cnn-bangla-tv-9082.jpg" group-title="Bangla Online TV", CNN Bangla
+http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
+
 #EXTINF:-1 group-title="Bangla Online TV" tvg-logo="https://www.channels.com.bd/wp-content/uploads/2021/03/Logo-Final.png",Channel S HD
 https://channelbdtv-hls.telelivebd.com/channelbdtv/channelbdtv.m3u8
 
@@ -127,6 +130,8 @@ https://tempabs.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFz
 
 Indian Bangla
 
+#EXTINF: -1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-aakaash-aath-8041.jpg" group-title="six tmp",Akash Aath
+https://dn09146u4bwct.cloudfront.net/AAKASH_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla SD
@@ -175,7 +180,7 @@ http://103.205.133.19/hls/chc.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="http://www.kcvnet.in/images/chanellogo/manoranjan_tv_in.png",Manoranjan Tv
 http://idvd.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
-http://sonyiptv.net:8080/live/prasad124/00000/147747.m3u8
+https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345094988
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment 2
 http://103.205.133.19/hls/chs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD 
@@ -186,7 +191,7 @@ http://103.205.133.19/hls/chsp.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Hindi",Sony SAB HD
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/iGjG8wn.png" group-title="Hindi", Sony SAB
-https://m3u-editor.com/serve/2ab353e0-ed64-11eb-934a-1d9847424420/343511107
+https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345095453
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV
@@ -201,8 +206,6 @@ Hindi Movies
 http://tv.pmcon.net/hls/stream14.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Hindi Movies", And Picture 2
 http://103.205.133.19/hls/andpicture.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/DKQU4HC.png" group-title="Hindi", &TV HD
-https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345094995
 #EXTINF: -1 tvg-logo="" group-title="Hindi Movies", B4U Kadak
 https://d207nlzuawwh55.cloudfront.net/B4U_KADAK.m3u8
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="http://www.kcvnet.in/images/chanellogo/b_flix_movies_in.png",BFlix Movies
@@ -226,10 +229,10 @@ http://tv.pmcon.net/hls/stream19.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSFREgfmLhYtcj7MneuoGqnz9Kwf-Abw-6gQ&usqp=CAU" group-title="Hindi Movies", Star Gold Select HD
 https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345095014
 #EXTINF: -1 tvg-logo="https://i.imgur.com/RCe7288.jpg" group-title="Hindi Movies", Star Gold 2
-
+http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi Movies", UTV Action 
 http://tv.pmcon.net/hls/stream7.m3u8
-#EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRgiNCCfWfINZ6-JhdRImggcdtKmP4JiojofVql=s900-c-k-c0x00ffffff-no-rj" group-title="Hindi Movies", UTV
+#EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRgiNCCfWfINZ6-JhdRImggcdtKmP4JiojofVql=s900-c-k-c0x00ffffff-no-rj" group-title="Hindi Movies", UTV Movies
 https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345095018
 #EXTINF: -1 tvg-logo="https://www.sky.com/contentstack/assets/bltcaeb0983267f4b43/bltb486b94ffaba907b/6005ab504485e50f8f20882a/download" group-title="Hindi Movies", Utsav_Gold
 https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345095033
@@ -243,10 +246,8 @@ https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345095019
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-language="" tvg-logo="" group-title="Hindi Movies",Zee Action
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="" tvg-logo="" group-title="Hindi Movies",Zee Action
-https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi Movies", Zee Bolywood
-https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
+https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 
 
 

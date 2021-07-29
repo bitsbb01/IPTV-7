@@ -130,7 +130,7 @@ https://tempabs.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFz
 
 Indian Bangla
 
-#EXTINF: -1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-aakaash-aath-8041.jpg" group-title="six tmp",Akash Aath
+#EXTINF: -1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-aakaash-aath-8041.jpg" group-title="Indian Bangla",Akash Aath
 https://dn09146u4bwct.cloudfront.net/AAKASH_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
@@ -149,7 +149,7 @@ http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla", Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD 
-https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/34509496833
+https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345094968
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Zee_Bangla_New_Logo.jpg/220px-Zee_Bangla_New_Logo.jpg" group-title="Indian Bangla",Zee Bangla
 https://d2k667g61yse6h.cloudfront.net/101.m3u8
 
@@ -271,7 +271,7 @@ http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fox_Family_Movies_logo.svg/1200px-Fox_Family_Movies_logo.svg.png" group-title="English Movies", Fox Family HD
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Ah8ljUw.jpg" group-title="English Movies", Fox Movies Action
-https://m3u-editor.com/serve/92a672c0-e895-11eb-a1b2-d9c786caa461/339891860
+https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345095103
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://i.ibb.co/JKkbBdC/favpng-logo-hbo-now.png",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://is.gd/EgS8JD",HBO Family

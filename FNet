@@ -6,6 +6,8 @@ News
 http://iptvbd.jagobd.com:1931/boishakhi/atnws-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="News", Channel 24 
 http://tv.pmcon.net/hls/stream22.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/400px-Channel24logo.svg.png",Channel 24
+http://103.43.148.202:1931/iptv/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png " group-title="News",DBC News
 http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png",Ekattor TV 
@@ -59,6 +61,8 @@ http://103.205.133.19/hls/deshtv.m3u8
 http://103.205.133.19/hls/ekushey.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladeshi Bangla",GAZI TV
 https://cdn.cinemabaaz.live/j-GTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangladeshi Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",GAZI TV
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masranga tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg " group-title="Bangladeshi Bangla",Masranga TV HD
 http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mohona tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mohona_Logo.JPG/230px-Mohona_Logo.JPG " group-title="Bangladeshi Bangla",Mohona TV
@@ -98,8 +102,6 @@ https://channelbdtv-hls.telelivebd.com/channelbdtv/channelbdtv.m3u8
 https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla Online TV" tvg-logo="https://jaratv.tv/wp-content/uploads/2021/03/Web-Logo.png",Jara Tv
 https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jaratv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla Online TV" tvg-logo="https://i.ibb.co/4MRx1B5/joyjatra1-removebg-preview.png",Joyjatra Tv
-https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khusbo tv" tvg-logo="https://1.bp.blogspot.com/-5tGF6dQFsdM/X5rlfx1rudI/AAAAAAAABjM/YoV7bum8Xt4LIZau1c6faScovgIfTkkhgCLcBGAsYHQ/w800/images%2B%25281%2529.jpeg " group-title="Bangla Online TV",Khusbo tv
 https://d2my7pmu7z3zc5.cloudfront.net/KHUSBOO_TV.m3u8
 #EXTINF:-1 group-title="Bangla Online TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/mycinemabd.jpg",My Cinema
@@ -211,16 +213,18 @@ http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345095018
 #EXTINF: -1 tvg-logo="" group-title="Hindi Movies", Zee Anmol
 https://d2bfv5viypt204.cloudfront.net/Z_ANMOL.m3u8
+#EXTINF:0 tvg-language="" tvg-logo="" group-title="Hindi Movies",Zee Action
+http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Zeeclassic.png/revision/latest/scale-to-width-down/280?cb=20200803072038" group-title="Hindi Movies", Zee Bolywood
+http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Movies", Zee Cinema HD 
 http://tv.pmcon.net/hls/stream25.m3u8
 #EXTINF: -1 tvg-logo="https://www.pikpng.com/pngl/m/48-485018_zee-cinema-hq-zee-cinema-channel-logo-clipart.png" group-title="Hindi Movies", Zee Cinema SD
 https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345095019
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Zeeclassic.png/revision/latest/scale-to-width-down/280?cb=20200803072038" group-title="Hindi Movies", Zee Bolywood
-http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-language="" tvg-logo="" group-title="Hindi Movies",Zee Action
-http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi Movies", Zee Classic
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
+#EXTINF:-1 group-title="Bonus Channel" tvg-logo="https://i.ibb.co/phyqswj/preview.png",Zee Smile
+http://y5w8j4a9.ssl.hwcdn.net/smileusa/tracks-v1a1/mono.m3u8
 
 English
 
@@ -261,9 +265,11 @@ https://d3pf2g6avq2sfr.cloudfront.net/DHOOM_MUSIC.m3u8
 https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345095235
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Music", Gaan Bangla 
 http://103.205.133.19/hls/gaanbangla.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india.png",Music India
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sangeet Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="Music",Sangeet Bangla
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/7K2YmRW/unnamed.png",Masti Tv
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="http://tv.bdtype.com/uploads/tv_image/rtv-music.png",RTV Music
+http://103.43.148.202:1931/iptv/rtvmusic.stream/chunks.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="http://www.kcvnet.in/images/chanellogo/sangeet_bangla_in.png",Sangeet Bangla
 https://dhauizqk3uwxi.cloudfront.net/SANGEET_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music" ,Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
@@ -271,12 +277,14 @@ https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 https://d4r942xafddk2.cloudfront.net/ZOOM.m3u8
 
 
+
 Kids
+
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Kids",Akaram Kidz
 https://piratesiptv.shortcm.li/akaram.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network-Hindi
 http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Junior (Hindi)
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Junior
 http://70.39.83.58:8278/disneyjuniorhindikdin/playlist.m3u8
 #EXTINF: -1 tvg-logo="" group-title="Kids", Gubbare
 https://d2061ne4i4l8ek.cloudfront.net/GUBBARE.m3u8
@@ -284,6 +292,10 @@ https://d2061ne4i4l8ek.cloudfront.net/GUBBARE.m3u8
 http://103.153.39.34:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids", Discovery Kids
 https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://is.gd/6MPlxE",Disney XD
+http://mygoodstream.pw/proxy.php/http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png",Hungama Tv
+http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick 
 http://tv.pmcon.net/hls/stream23.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/wzHl5iW.png",Marvel
@@ -305,22 +317,22 @@ Documentary
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.ibb.co/k4QjB5D/Daco-5201146.png",Animal Planet
 http://idvd.multitvsolution.com/idvo/animalplaneteng_540p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary", Discovery HD 
-http://tv.pmcon.net/hls/stream9.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png",Discovery Science
-http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-discoveryscience.stream/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD
+http://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/laL2l7Q.png",Discovery Science
+http://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/History_TV18.png",History Channel
 http://31.220.41.88:8081/live/us-history.stream/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png",Love Nature HD
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/72629
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png",Love Nature SD
+http://mygoodstream.pw/proxy.php/http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Nasa Tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary", National Geographic HD 
-http://tv.pmcon.net/hls/stream13.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/plKUWKl.png",National Geographic HD
+http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/Ay4EtVz.png",Nat Geo Wild HD
 http://31.220.41.88:8081/live/us-natgeowild.stream/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/U39wkxW.png",Sony BBC Earth 
-http://180.210.191.2/hls/stream5.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/07/BBC-Earth-Logo-1-2.png",Sony BBC Earth
+http://mygoodstream.pw/proxy.php/http://185.180.221.194:8278/streams/d/Bbcearth/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/P7JRmze.png",TLC HD
 http://idvd.multitvsolution.com/idvo/tlchd_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentary", Travel XP HD 
@@ -353,7 +365,8 @@ http://tv.pmcon.net/hls/stream12.m3u8
 http://tv.pmcon.net/hls/stream34.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports HD
 https://cdn.cinemabaaz.live/j-TSports/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 
 Religious
 
@@ -392,19 +405,7 @@ https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345094990
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 #EXTINF: -1 tvg-logo="https://www.sky.com/contentstack/assets/bltcaeb0983267f4b43/bltb486b94ffaba907b/6005ab504485e50f8f20882a/download" group-title="Bonus Channel", Utsav_Gold
 https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345095033
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bonus Channel",Zee Cinema UK
-https://piratesiptv.shortcm.li/zcinema3.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bonus Channel",Zee Cinema USA
-https://piratesiptv.shortcm.li/zcinema4.m3u8
-#EXTINF: -1 tvg-logo="https://www.pikpng.com/pngl/m/48-485018_zee-cinema-hq-zee-cinema-channel-logo-clipart.png" group-title="Bonus Channel", Zee Cinema SD
-http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://www.pikpng.com/pngl/m/48-485018_zee-cinema-hq-zee-cinema-channel-logo-clipart.png" group-title="Bonus Channel", Zee Cinema SD
-https://piratesiptv.shortcm.li/zcinema2.m3u8
-#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmol/list/386x386/09zeeanmolzeeanmol.png" group-title="Bonus Channel",Zee Anmol Cinema
-https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9eGTzS3.jpg" group-title="Bonus Channel", Willow Cricket SD
 https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345095168
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9eGTzS3.jpg" group-title="Bonus Channel", Willow Cricket HD
 https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345095169
-#EXTINF:-1 group-title="Bonus Channel" tvg-logo="https://i.ibb.co/phyqswj/preview.png",Zee Smile
-http://y5w8j4a9.ssl.hwcdn.net/smileusa/tracks-v1a1/mono.m3u8

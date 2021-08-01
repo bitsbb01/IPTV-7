@@ -417,4 +417,5 @@ https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345094990
 #EXTINF:-1 tvg-id="Sky2(src01).uk(m3u4u)" tvg-name="Sky 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Sky_Two_logo_2020.svg/220px-Sky_Two_logo_2020.svg.png" group-title="Bonus Channel",Sky 2 HD
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 
+#EXTINF:0 tvg-language="" tvg-logo="https://www.pikpng.com/pngl/m/520-5206277_bein-sports-1-hd-clipart.png" group-title="Bonus Channel",Test
 http://tv.univisionlive.net:25461/series/Ritu/402235/2645.mkv

@@ -251,7 +251,7 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://watchindia.net:8880/live/33253/72963/2102.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="English", Sony Pix
 https://m3u-editor.com/serve/42747f10-f1ec-11eb-bb6a-85fb86f8c9d3/346902304
-#EXTINF: -1 tvg-logo="https://i.imgur.com/fUlJsrN.jpg" group-title="ENGLISH MOVIES", Star Movies HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/fUlJsrN.jpg" group-title="English", Star Movies HD
 https://m3u-editor.com/serve/42747f10-f1ec-11eb-bb6a-85fb86f8c9d3/346902012
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies 
 
@@ -334,7 +334,7 @@ http://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/History_TV18.png",History Channel
 http://31.220.41.88:8081/live/us-history.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png",Love Nature SD
-http://mygoodstream.pw/proxy.php/http://bamus-eng-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Nasa Tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/plKUWKl.png",National Geographic HD
@@ -361,6 +361,8 @@ http://tv.pmcon.net/hls/stream11.m3u8
 https://m3u-editor.com/serve/42747f10-f1ec-11eb-bb6a-85fb86f8c9d3/346902025
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="Sports", Sony Ten 2 HD 
 http://tv.pmcon.net/hls/stream39.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony ten 2
+http://103.109.56.116/live/skyfeed1018/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD 
 https://m3u-editor.com/serve/42747f10-f1ec-11eb-bb6a-85fb86f8c9d3/346902022
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD 

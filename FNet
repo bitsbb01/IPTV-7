@@ -417,5 +417,17 @@ https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345094990
 #EXTINF:-1 tvg-id="Sky2(src01).uk(m3u4u)" tvg-name="Sky 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Sky_Two_logo_2020.svg/220px-Sky_Two_logo_2020.svg.png" group-title="Bonus Channel",Sky 2 HD
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 
-#EXTINF:0 tvg-language="" tvg-logo="https://www.pikpng.com/pngl/m/520-5206277_bein-sports-1-hd-clipart.png" group-title="Bonus Channel",Test
-http://tv.univisionlive.net:25461/series/Ritu/402235/2645.mkv
+FTP HINDI MOVIES
+
+#EXTINF:-1 group-title="FTP HINDI MOVIES",Krrish (2006)
+http://content.discoveryftp.net/Movies/Hindi/2006/Krrish/Krrish%202006%20BluRay%201080p%20Hindi%20DD%205.1%20x264%20MSubs.mkv
+
+#EXTINF:-1 group-title="FTP HINDI MOVIES",Meri Pyari Bindu (2017)
+http://cdn.bdflix.ml/0:/Movies/BOLLYWOOD/M/Meri%20Pyaari%20Bindu%20(2017)%20-%201080p.h264.AC3.6ch.mkv
+
+#EXTINF:-1 group-title="FTP HINDI MOVIES",Radhe: Your Most Wanted Bhai (2021)
+http://mymoviebazar.net/Data/movies/bollywood/2021/Radhe%20(2021)/Radhe%20(2021)%20Hindi%201080p%20WEB-DL%20-MSub.mp4
+
+#EXTINF:-1 group-title="FTP HINDI MOVIES",Mission Mangal (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Mission%20Mangal/Mission%20Mangal%20(2019)%20Hindi%C2%A0Proper%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20AAC%20-%201.2GB%20-%20ESub.mp4
+

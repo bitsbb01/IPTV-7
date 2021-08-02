@@ -227,7 +227,7 @@ http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Movies", Zee Cinema HD 
 https://m3u-editor.com/serve/42747f10-f1ec-11eb-bb6a-85fb86f8c9d3/346901899
-#EXTINF: -1 tvg-logo="https://i.imgur.com/MINFDa9.png" group-title="HINDI MOVIES", Zee Cinema SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/MINFDa9.png" group-title="Hindi Movies", Zee Cinema SD
 https://m3u-editor.com/serve/42747f10-f1ec-11eb-bb6a-85fb86f8c9d3/346901898
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi Movies", Zee Classic
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
@@ -431,3 +431,8 @@ http://mymoviebazar.net/Data/movies/bollywood/2021/Radhe%20(2021)/Radhe%20(2021)
 #EXTINF:-1 group-title="FTP HINDI MOVIES",Mission Mangal (2019)
 http://content.discoveryftp.net/Movies/Hindi/2019/Mission%20Mangal/Mission%20Mangal%20(2019)%20Hindi%C2%A0Proper%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20AAC%20-%201.2GB%20-%20ESub.mp4
 
+#EXTINF:-1 group-title="FTP HINDI MOVIES",14 Phere (2021)
+http://203.80.191.238/Data/disk1/movies/bollywood/2021/14%20Phere%20(2021)/14%20Phere%20(2021)%20Hindi%20720p%20WEBRip%20x264%20AAC%20ESub.mp4
+
+#EXTINF:-1 group-title="FTP HINDI MOVIES",Hungama 2 (2021)
+http://203.80.191.238/Data/disk1/movies/bollywood/2021/Hungama%202%20(2021)/Hungama%202%202021.720p.WeB.DL.AVC.AAC.Dus.IcTv.mp4

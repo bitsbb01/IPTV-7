@@ -90,7 +90,7 @@ http://str24.l9574.com/515.stream/index.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxKlZFE6YkOtRQi153r2-XSEPQ2PX6Knb2iGHyEMqu6SCKa__QO9BVxX6N1UitpuKNsg0&usqp=CAU" group-title="Bangla Online TV",Biswa Bangla
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/axK7mxm.jpg" group-title="Bangla Online TV", KTV
-https://m3u-editor.com/serve/70a02d90-f2eb-11eb-8a53-9b963260c14d/347812341
+
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangla Online TV",Cumilla 24 TV
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cnn-bangla-tv-9082.jpg" group-title="Bangla Online TV", CNN Bangla
@@ -156,13 +156,13 @@ http://103.205.133.19/hls/andtv.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/tv18-colors-tv-hd-logo.jpg", Colors 
 http://103.205.133.19/hls/chc.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/tv18-colors-tv-hd-logo.jpg", Colors HD
-https://m3u-editor.com/serve/70a02d90-f2eb-11eb-8a53-9b963260c14d/347812376
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WmjPBWy.png" group-title="Hindi", Colors Ristey
 http://103.205.133.19/hls/chc.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="http://www.kcvnet.in/images/chanellogo/manoranjan_tv_in.png",Manoranjan Tv
 http://idvd.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
-https://m3u-editor.com/serve/70a02d90-f2eb-11eb-8a53-9b963260c14d/347812380
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment SD
 http://103.205.133.19/hls/chs.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BKZy8ye.jpg" group-title="Hindi", Star Plus HD
@@ -182,8 +182,8 @@ https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 Hindi Movies
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi Movies", & Pictures HD 
-http://103.81.104.118/hls/stream14.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Hindi Movies", & Picture 2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi Movies", & Pictures HD 
 http://103.205.133.19/hls/andpicture.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi Movies", & Pictures SD
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
@@ -216,9 +216,7 @@ http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Movies", Zee Cinema HD 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MINFDa9.png" group-title="Hindi Movies", Zee Cinema SD
-https://piratesiptv.shortcm.li/zcinema2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi Movies", Zee Classic
-https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
+
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://i.ibb.co/phyqswj/preview.png",Zee Smile
 http://y5w8j4a9.ssl.hwcdn.net/smileusa/tracks-v1a1/mono.m3u8
 
@@ -286,7 +284,7 @@ http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
 #EXTINF: -1 tvg-logo="" group-title="Kids", Gubbare
 https://d2061ne4i4l8ek.cloudfront.net/GUBBARE.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DQssI8m.png" group-title="Kids", Disney Channel
-https://m3u-editor.com/serve/70a02d90-f2eb-11eb-8a53-9b963260c14d/347812686
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids", Discovery Kids
 https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://is.gd/6MPlxE",Disney XD
@@ -294,7 +292,7 @@ http://mygoodstream.pw/proxy.php/http://198.16.106.62:8278/streams/d/Disneyxd/pl
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png",Hungama Tv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick 
-https://m3u-editor.com/serve/70a02d90-f2eb-11eb-8a53-9b963260c14d/347812688
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/wzHl5iW.png",Marvel
 https://m3u-editor.com/serve/70a02d90-f2eb-11eb-8a53-9b963260c14d/347812694
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png",Pogo
@@ -313,30 +311,26 @@ Documentary
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.ibb.co/k4QjB5D/Daco-5201146.png",Animal Planet
 http://idvd.multitvsolution.com/idvo/animalplaneteng_540p/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/SyxpPHT.jpg" group-title="Documentary", Asian Food Network
-https://m3u-editor.com/serve/70a02d90-f2eb-11eb-8a53-9b963260c14d/347812451
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD
 http://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/SyxpPHT.jpg" group-title="Documentary", Discovery Food
-https://m3u-editor.com/serve/70a02d90-f2eb-11eb-8a53-9b963260c14d/347812458
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/laL2l7Q.png",Discovery Science
 http://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/History_TV18.png",History Channel
-https://m3u-editor.com/serve/70a02d90-f2eb-11eb-8a53-9b963260c14d/347812448
+
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png",Love Nature SD
-https://m3u-editor.com/serve/70a02d90-f2eb-11eb-8a53-9b963260c14d/347812463
+
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Nasa Tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/plKUWKl.png",National Geographic HD
 http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/Ay4EtVz.png",Nat Geo Wild HD
-https://m3u-editor.com/serve/70a02d90-f2eb-11eb-8a53-9b963260c14d/347812477
+http://mygoodstream.pw/proxy.php/http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/07/BBC-Earth-Logo-1-2.png",BBC Earth
-https://m3u-editor.com/serve/70a02d90-f2eb-11eb-8a53-9b963260c14d/347812447
+https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/P7JRmze.png",TLC HD
 http://idvd.multitvsolution.com/idvo/tlchd_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentary", Travel XP HD 
-https://m3u-editor.com/serve/70a02d90-f2eb-11eb-8a53-9b963260c14d/347812475
+https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://is.gd/3kLvW6",Discovery Turbo
 http://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 
@@ -346,7 +340,7 @@ Sports
 #EXTINF:0 tvg-language="" tvg-logo="https://e7.pngegg.com/pngimages/917/857/png-clipart-eurosport-1-logo-lyngsat-television-hot-bird-13b-discovery-channel-logo-purple-television.png" group-title="Sports", Eurosports 1
 http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports", PTV Sports 
-https://m3u-editor.com/serve/70a02d90-f2eb-11eb-8a53-9b963260c14d/347812575
+http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1
 https://m3u-editor.com/serve/70a02d90-f2eb-11eb-8a53-9b963260c14d/347812554
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony Ten 2

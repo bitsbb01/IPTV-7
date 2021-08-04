@@ -244,6 +244,8 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://watchindia.net:8880/live/33253/72963/2102.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="English", Sony Pix
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD Global
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fUlJsrN.jpg" group-title="English", Star Movies HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies 
@@ -289,7 +291,7 @@ https://piratesiptv.shortcm.li/akaram.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network
 http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Junior
-
+http://70.39.83.58:8278/disneyjuniorhindikdin/playlist.m3u8
 #EXTINF: -1 tvg-logo="" group-title="Kids", Gubbare
 https://d2061ne4i4l8ek.cloudfront.net/GUBBARE.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DQssI8m.png" group-title="Kids", Disney Channel
@@ -299,9 +301,11 @@ https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://is.gd/6MPlxE",Disney XD
 http://mygoodstream.pw/proxy.php/http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png",Hungama Tv
-
+https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick 
-
+http://103.109.56.116/live/skyfeed1014/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids", Nick Junior
+https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/wzHl5iW.png",Marvel
 https://m3u-editor.com/serve/70a02d90-f2eb-11eb-8a53-9b963260c14d/347812694
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png",Pogo
@@ -369,9 +373,9 @@ http://103.109.56.116/live/skyfeed1022/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 2
-
+http://103.109.56.116/live/skyfeed1024/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/39RJJO4.jpg" group-title="Sports", Ten Sports HD
-https://m3u-editor.com/serve/42747f10-f1ec-11eb-bb6a-85fb86f8c9d3/346902045
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports HD
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 

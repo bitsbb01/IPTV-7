@@ -301,13 +301,13 @@ https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://is.gd/6MPlxE",Disney XD
 http://mygoodstream.pw/proxy.php/http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png",Hungama Tv
-https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
+http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids", Nick 
 http://103.109.56.116/live/skyfeed1014/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids", Nick Junior
-https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/wzHl5iW.png",Marvel
-https://m3u-editor.com/serve/70a02d90-f2eb-11eb-8a53-9b963260c14d/347812694
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png",Pogo
 https://is.gd/dHmVKS
 #EXTINF: -1 tvg-logo="https://banner2.cleanpng.com/20180530/git/kisspng-pbs-kids-wttw-wsiu-tv-sesame-workshop-5b0f38a33c4ce4.468941861527724195247.jpg" group-title="Kids", PBS Kids
@@ -330,7 +330,7 @@ http://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 http://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/History_TV18.png",History Channel
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png",Love Nature SD
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Nasa Tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -351,11 +351,13 @@ http://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 Sports
 
 #EXTINF:-1tvg-logo="https://imgur.com/ho0ch9s.png" group-title="Sports",Live Sports
-http://203.80.191.3:8089/load/gazitv/chunks.m3u8?nimblesessionid=2162014
+
 #EXTINF:0 tvg-language="" tvg-logo="https://e7.pngegg.com/pngimages/917/857/png-clipart-eurosport-1-logo-lyngsat-television-hot-bird-13b-discovery-channel-logo-purple-television.png" group-title="Sports", Eurosports 1
 http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports", PTV Sports 
 
+#EXTINF:-1 tvg-id="Sky2(src01).uk(m3u4u)" tvg-name="Sky 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Sky_Two_logo_2020.svg/220px-Sky_Two_logo_2020.svg.png" group-title="Sports",Sky Sports 2 HD
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1
 http://103.109.56.116/live/skyfeed1017/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony Ten 2
@@ -382,32 +384,50 @@ http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 
 Religious
 
+
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Religious",Al Dawah
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.ibb.co/R9FLtGM/BTV-Live-removebg-preview.png",ATN Islamic
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/pMQM7rC.png" group-title="Religious", IQRA
-https://m3u-editor.com/serve/70a02d90-f2eb-11eb-8a53-9b963260c14d/347812351
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Saudi Quran" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Religious",Saudi Quran
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?Live-TV™
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U1XFyOx.png" group-title="Religious" group-title="Religious", Macca 
-http://tv.pmcon.net/hls/stream33.m3u8
+
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.ibb.co/12YZ6N3/unnamed-removebg-preview-1.png",Madani Tv
 http://103.205.133.19/hls/madanitv.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/pMQM7rC.png" group-title="Religious", Saudi Sunnah
-https://m3u-editor.com/serve/70a02d90-f2eb-11eb-8a53-9b963260c14d/347812349
+
 
 
 Bonus Channel
 
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7ZKXcZg.png" group-title="Bonus Channel", GAZI TV
-https://m3u-editor.com/serve/70a02d90-f2eb-11eb-8a53-9b963260c14d/347812329
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-language="" tvg-logo="https://www.pikpng.com/pngl/m/520-5206277_bein-sports-1-hd-clipart.png" group-title="Bonus Channel",Bein Sports 1
 http://stream.tvtap.live:8081/live/tr-bein1.stream/playlist.m3u8
 #EXTINF:0 tvg-language="" tvg-logo="http://tv.bdixsports.com/uploads/tv_image/sm/bein-sports-2-live.jpg" group-title="Bonus Channel",Bein Sports 2
 http://stream.tvtap.live:8081/live/tr-bein2.stream/playlist.m3u8
 https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345094990
-#EXTINF:-1 tvg-id="Sky2(src01).uk(m3u4u)" tvg-name="Sky 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Sky_Two_logo_2020.svg/220px-Sky_Two_logo_2020.svg.png" group-title="Bonus Channel",Sky 2 HD
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Bonus Channel", Zee Cinema HD
+https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
+#EXTINF:-1 tvg-id="GustoTV.us" tvg-name="Gusto TV" tvg-country="IN" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5c5c47f3662f6b3c476fc03e/colorLogoPNG.png" group-title="Bonus Channel",Gusto TV
+https://gustotv-samsung-in.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bonus Channel",Super Sports 1
+http://93.157.62.180/Supersport1/index.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bonus Channel",Super Sports 2
+http://93.157.62.180/Supersport2/index.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bonus Channel",Super Sports 3
+http://93.157.62.180/Supersport3/index.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bonus Channel",Super Sports 4
+http://93.157.62.180/Supersport4/index.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bonus Channel",Super Sports 5
+http://93.157.62.180/Supersport5/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Bonus Channel",HBO Signature
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
 
 FTP HINDI MOVIES
 

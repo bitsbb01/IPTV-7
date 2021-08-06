@@ -108,13 +108,23 @@ https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzb
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla Online TV" tvg-logo="https://i.ibb.co/hCgCPyw/Zee-Zest-removebg-preview-2.png",NAN TV
 https://tempabs.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Online TV" tvg-logo="https://i.imgur.com/6N3jcf8.png",GBangla Tv
+https://iptv10.raytahost.com/desh/gbangla/index.m3u8
 #EXTINF:-1 group-title="Bangla Online TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/01/roaltv.jpg",Roal Tv
+#EXTINF:-1 group-title="Bangla Online TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/12/Sristy-tv-final-3-01.png",Sristy Tv
+https://is.gd/7leaqz
 https://tempabs.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
+https://is.gd/7leaqz
 #EXTINF:-1 group-title="Bangla Online TV" tvg-logo="https://i.ibb.co/2y8Pt7g/2021-04-27-11-07-55.png",Voice
 https://tempabs.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 
 
 Indian Bangla
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LeIa06D.png" group-title="Indian Bangla", ABP Ananda
+https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94MWo0U.png" group-title="Indian Bangla", Calcutta News
+https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
@@ -174,6 +184,8 @@ http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="" group-title="Hindi", Zee Anmol
 https://d2bfv5viypt204.cloudfront.net/Z_ANMOL.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/2JaTJ0M.png",Zee TV SD
+http://103.205.133.19/hls/zeetvhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 
@@ -242,10 +254,8 @@ https://piratesiptv.shortcm.li/foxlife.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English",Movies Now HD
 http://watchindia.net:8880/live/33253/72963/2102.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="English", Sony Pix
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD Global
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD
+https://is.gd/ObFrpt
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fUlJsrN.jpg" group-title="English", Star Movies HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies 
@@ -329,7 +339,7 @@ http://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/laL2l7Q.png",Discovery Science
 http://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/History_TV18.png",History Channel
-
+http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Nasa Tv
@@ -351,7 +361,7 @@ http://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 Sports
 
 #EXTINF:-1tvg-logo="https://imgur.com/ho0ch9s.png" group-title="Sports",Live Sports
-
+http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/3381.m3u8
 #EXTINF:0 tvg-language="" tvg-logo="https://e7.pngegg.com/pngimages/917/857/png-clipart-eurosport-1-logo-lyngsat-television-hot-bird-13b-discovery-channel-logo-purple-television.png" group-title="Sports", Eurosports 1
 http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports", PTV Sports 
@@ -400,10 +410,10 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://103.205.133.19/hls/madanitv.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/pMQM7rC.png" group-title="Religious", Saudi Sunnah
 
-
-
 Bonus Channel
 
+#EXTINF:-1 group-title="Bonus Channel" tvg-logo="https://i.imgur.com/M1G1tB7.png",Enterr10
+http://idvd.multitvsolution.com/idvo/enter10_540p/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7ZKXcZg.png" group-title="Bonus Channel", GAZI TV
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
@@ -414,8 +424,26 @@ http://stream.tvtap.live:8081/live/tr-bein2.stream/playlist.m3u8
 https://m3u-editor.com/serve/67cde980-efa3-11eb-a3d0-eb526fdc30c8/345094990
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Bonus Channel", Zee Cinema HD
 https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
+
+#EXTINF:-1 group-title="Bonus Channel" tvg-logo="https://i.ibb.co/r4mGwW1/Dabangg-logo-removebg-preview.png",Dabaang Tv
+http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
+
+#EXTINF:-1 group-title="Bonus Channel" tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigmagic_1786965389/list/386x386/09bigmagic_1786965389bigma.png",Big Magic
+https://y5w8j4a9.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-id="GustoTV.us" tvg-name="Gusto TV" tvg-country="IN" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5c5c47f3662f6b3c476fc03e/colorLogoPNG.png" group-title="Bonus Channel",Gusto TV
 https://gustotv-samsung-in.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Bonus Channel" tvg-logo="https://i.ibb.co/HNj40jP/SONY.jpg",Sony Tv (Global)
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?
+
+#EXTINF:-1 group-title="Bonus Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony SAB SD
+http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Hindi (Entertainment)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony SAB HD
+http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bonus Channel",Super Sports 1
 http://93.157.62.180/Supersport1/index.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bonus Channel",Super Sports 2
@@ -442,9 +470,3 @@ http://mymoviebazar.net/Data/movies/bollywood/2021/Radhe%20(2021)/Radhe%20(2021)
 
 #EXTINF:-1 group-title="FTP HINDI MOVIES",Mission Mangal (2019)
 http://content.discoveryftp.net/Movies/Hindi/2019/Mission%20Mangal/Mission%20Mangal%20(2019)%20Hindi%C2%A0Proper%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20AAC%20-%201.2GB%20-%20ESub.mp4
-
-#EXTINF:-1 group-title="FTP HINDI MOVIES",14 Phere (2021)
-http://203.80.191.238/Data/disk1/movies/bollywood/2021/14%20Phere%20(2021)/14%20Phere%20(2021)%20Hindi%20720p%20WEBRip%20x264%20AAC%20ESub.mp4
-
-#EXTINF:-1 group-title="FTP HINDI MOVIES",Hungama 2 (2021)
-http://203.80.191.238/Data/disk1/movies/bollywood/2021/Hungama%202%20(2021)/Hungama%202%202021.720p.WeB.DL.AVC.AAC.Dus.IcTv.mp4

@@ -416,6 +416,10 @@ http://93.157.62.180/Supersport5/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Bonus Channel",HBO Signature
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="https://www.daily-sun.com/assets/news_images/2021/02/08/T_Sports_logo.png" group-title="Bonus Channel",T Sports
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
+https://youtu.be/kgYeGubai5E
+
 
 FTP HINDI MOVIES
 

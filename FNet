@@ -136,7 +136,7 @@ http://103.205.133.19/hls/ruposhibangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/71JVait.jpg" group-title="Indian Bangla",Sony Aath
 http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla",Star Jalsha HD 
-
+http://103.81.104.118/hls/stream27.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",Star Jalsha SD
 http://103.205.133.19/hls/chsj.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla",Sun Bangla  HD
@@ -234,7 +234,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="English",& Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English",AXN 
-
+http://103.81.104.118/hls/stream2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="English",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/3.m3u8
 #EXTINF:0 tvg-logo="https://www.logolynx.com/images/logolynx/05/050ac15a8b20a2fc030cbc138a795859.jpeg" group-title="English",Fox HD
@@ -362,13 +362,13 @@ http://103.109.56.116/live/skyfeed1019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports",Sony Six
 http://103.109.56.116/live/skyfeed1025/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports",Star Sports 1
-
+http://103.81.104.118/hls/stream15.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports",Star Sports 2
 
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180516/aaq/kisspng-star-sports-3-television-channel-star-india-live-stream-5afcbc54e59281.1662678015265127249403.jpg " group-title="Sports",Star Sports 3
 http://103.109.56.116/live/skyfeed1022/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports",Star Sports Select 1
-
+http://103.81.104.118/hls/stream12.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports",Star Sports Select 2
 http://103.109.56.116/live/skyfeed1024/index.m3u8
 #EXTINF:0 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",Super Sports 1
@@ -377,8 +377,8 @@ http://93.157.62.180/Supersport1/index.m3u8
 http://93.157.62.180/Supersport2/index.m3u8
 #EXTINF:0 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Sports",Super Sports 3
 http://93.157.62.180/Supersport3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/39RJJO4.jpg" group-title="Sports",Ten Sports HD
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/39RJJO4.jpg" group-title="Sports",Ten Cricket HD
+http://103.81.104.118/hls/stream34.m3u8
 
 Religious
 
@@ -403,6 +403,9 @@ Bonus Channel
 http://stream.tvtap.live:8081/live/tr-bein1.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/sm/bein-sports-2-live.jpg" group-title="Bonus Channel",Bein Sports 2
 http://stream.tvtap.live:8081/live/tr-bein2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Bonus Channel", Colors HD
+https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Bonus Channel",HBO Signature
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="Bonus Channel",Sony SAB SD
@@ -414,14 +417,30 @@ http://93.157.62.180/Supersport4/index.m3u8
 #EXTINF:0 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bonus Channel",Super Sports 5
 http://93.157.62.180/Supersport5/index.m3u8
 
+
+#EXTINF:-1 group-title="FTP HINDI MOVIES",Housefull
+http://content.discoveryftp.net/Movies/Hindi/2010/Housefull/Housefull%20(2010)%20Hindi%201080p%20BluRay%20x264%20DD+5.1(224Kbps)%20ESubs%20-%202.3GB%20-%20MovCr.mkv
+#EXTINF:-1 group-title="FTP HINDI MOVIES",Housefull 2
+http://content.discoveryftp.net/Movies/Hindi/2012/Housefull%202/HouseFull-2%202012%20Hindi%20BRRip%20720p%20x264%20AAC%205.1...Hon3y.mp4
+#EXTINF:-1 group-title="FTP HINDI MOVIES",Housefull 3
+http://content.discoveryftp.net/Movies/Hindi/2016/Housefull%203/Housefull%203%202016%20Hindi%20720p%20BluRay%20x264%20AAC%205.1%20-%20Hon3y%20[Exclusive].mkv
+#EXTINF:-1 group-title="FTP HINDI MOVIES",Housefull 4
+http://content.discoveryftp.net/Movies/Hindi/2019/Housefull%204/HOUSEFULL%204%20(2019)%20Hindi%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20AAC%20-%202.4GB%20-%20ESub.mp4
 #EXTINF:-1 group-title="FTP HINDI MOVIES",Krrish (2006)
 http://content.discoveryftp.net/Movies/Hindi/2006/Krrish/Krrish%202006%20BluRay%201080p%20Hindi%20DD%205.1%20x264%20MSubs.mkv
-
-#EXTINF:-1 group-title="HINDI MOVIES",Meri Pyari Bindu (2017)
-http://cdn.bdflix.ml/0:/Movies/BOLLYWOOD/M/Meri%20Pyaari%20Bindu%20(2017)%20-%201080p%20WEB-DL%20-MSub.mkv
-
-#EXTINF:-1 group-title="Hindi MOVIES",Radhe: Your Most Wanted Bhai (2021)
+#EXTINF:-1 group-title="FTP HINDI MOVIES",Krrish (2006)
+http://content.discoveryftp.net/Movies/Hindi/2006/Krrish/Krrish%202006%20BluRay%201080p%20Hindi%20DD%205.1%20x264%20MSubs.mkv
+#EXTINF:-1 group-title="FTP HINDI MOVIES",Krrish 3 (2013)
+http://content.discoveryftp.net/Movies/Hindi/2013/Krrish%203/Krrish.3.2013.1080p.BluRay.6CH.ShAaNiG.com.man.mkv
+#EXTINF:-1 group-title="FTP HINDI MOVIES",Meri Pyari Bindu (2017)
+http://cdn.bdflix.ml/0:/Movies/BOLLYWOOD/M/Meri%20Pyaari%20Bindu%20(2017)%20-%201080p.h264.AC3.6ch.mkv
+#EXTINF:-1 group-title="FTP HINDI MOVIES",Radhe: Your Most Wanted Bhai (2021)
 http://mymoviebazar.net/Data/movies/bollywood/2021/Radhe%20(2021)/Radhe%20(2021)%20Hindi%201080p%20WEB-DL%20-MSub.mp4
-
 #EXTINF:-1 group-title="FTP HINDI MOVIES",Mission Mangal (2019)
 http://content.discoveryftp.net/Movies/Hindi/2019/Mission%20Mangal/Mission%20Mangal%20(2019)%20Hindi%C2%A0Proper%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20AAC%20-%201.2GB%20-%20ESub.mp4
+#EXTINF:-1 group-title="FTP HINDI MOVIES",Dhoom (2004)
+http://content.discoveryftp.net/Movies/Hindi/2004/Dhoom/Dhoom%202004%20Hindi%201080p%20Blu-Ray%20x264%20DD%205.1%20HDSector.mkv
+#EXTINF:-1 group-title="FTP HINDI MOVIES",Dhoom 2 (2006)
+http://content.discoveryftp.net/Movies/Hindi/2006/Dhoom%202/Dhoom%202%20(2006)%20Hindi%201080p%20Blu-Ray%20x264%20DD%205.1%20MSubs-HDSector.mkv
+#EXTINF:-1 group-title="FTP HINDI MOVIES",Dhoom 3 (2013)
+http://content.discoveryftp.net/Movies/Hindi/2013/Dhoom%203/Dhoom%203%20(2013)%20Hindi%201080p%20BluRay%20AC3%20x264%20-%20BUZZccd.mkv

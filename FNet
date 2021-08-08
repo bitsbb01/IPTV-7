@@ -413,6 +413,10 @@ http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 http://93.157.62.180/Supersport4/index.m3u8
 #EXTINF:0 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bonus Channel",Super Sports 5
 http://93.157.62.180/Supersport5/index.m3u8
+
+
+#EXTINF:-1 group-title="HINDI MOVIES",Dhoom (2004)
+http://content.discoveryftp.net/Data/Movies/Hindi/2004/Dhoom/Dhoom%202004%20Hindi%201080p%20Blu-Ray%20x264%20DD%205.1%20HDSector.mkv
 #EXTINF:-1 group-title="FTP HINDI MOVIES",Krrish (2006)
 http://content.discoveryftp.net/Movies/Hindi/2006/Krrish/Krrish%202006%20BluRay%201080p%20Hindi%20DD%205.1%20x264%20MSubs.mkv
 #EXTINF:-1 group-title="FTP HINDI MOVIES",Meri Pyari Bindu (2017)

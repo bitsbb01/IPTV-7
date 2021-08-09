@@ -130,7 +130,7 @@ http://103.205.133.19/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian Bangla",Enter 10 Bangla 
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla",Jalsha Movies HD 
-
+http://103.81.104.118/hls/stream27.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ruposhi Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTvqb4PqrO8ohIPKojcopDpi7611EFFiyVt5tTfHEY_5zgUeKh&usqp=CAU" group-title="Indian Bangla",Ruposhi Bangla
 http://103.205.133.19/hls/ruposhibangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/71JVait.jpg" group-title="Indian Bangla",Sony Aath
@@ -146,7 +146,7 @@ https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Zee_Bangla_New_Logo.jpg/220px-Zee_Bangla_New_Logo.jpg" group-title="Indian Bangla",Zee Bangla
 https://d2k667g61yse6h.cloudfront.net/101.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla",Zee Bangla HD 
-
+http://103.81.104.118/hls/stream30.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla",Zee Bangla Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 
@@ -270,7 +270,7 @@ https://d3pf2g6avq2sfr.cloudfront.net/DHOOM_MUSIC.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Music",Gaan Bangla 
 http://103.205.133.19/hls/gaanbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FY6qqqT.jpg" group-title="Music",i love
-
+https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7K2YmRW/unnamed.png" group-title="Music",Masti Tv
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.bdtype.com/uploads/tv_image/rtv-music.png" group-title="Music",RTV Music
@@ -383,7 +383,7 @@ http://103.81.104.118/hls/stream34.m3u8
 Religious
 
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/proxy/fATun5fcD5nHmQ7ke-5WvHmqM-8Lz78kOIPQr-Fwc8NH6RzpTrD5DhzKfWCULQLvbfTIBRa49-cPCBkHuOppU9mXxbl4ClWZYRpX55A" group-title="Religious",Al Dawah
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R9FLtGM/BTV-Live-removebg-preview.png" group-title="Religious",ATN Islamic
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pMQM7rC.png" group-title="Religious",IQRA
@@ -403,9 +403,10 @@ Bonus Channel
 http://stream.tvtap.live:8081/live/tr-bein1.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/sm/bein-sports-2-live.jpg" group-title="Bonus Channel",Bein Sports 2
 http://stream.tvtap.live:8081/live/tr-bein2.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Bonus Channel", Colors HD
 https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://www.kcvnet.in/images/chanellogo/maha_movie_in.png" group-title="Bonus Channel",Maha Movie
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Bonus Channel",HBO Signature
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="Bonus Channel",Sony SAB SD
@@ -416,6 +417,8 @@ http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 http://93.157.62.180/Supersport4/index.m3u8
 #EXTINF:0 tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bonus Channel",Super Sports 5
 http://93.157.62.180/Supersport5/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/zeecinemahd.jpg" group-title="Bonus Channel",Zee Cinema HD
+http://103.81.104.118/hls/stream25.m3u8
 
 
 #EXTINF:-1 group-title="FTP HINDI MOVIES",Housefull

@@ -46,7 +46,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/boishakhiplus.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Btv tvg-logo=" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Bangladesh_Television_Logo.png" group-title="Bangladeshi",BTV 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o90Y1Me.png" group-title="Bangladeshi",BTV World
-
+http://103.43.148.202:1931/iptv/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.protidinerchitrobd.com/media/imgAll/2020January/btv-chittagong-2001251041.jpg" group-title="Bangladeshi",BTV Chottogram
 http://103.106.2.149:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png " group-title="Bangladeshi",Channel 9
@@ -75,7 +75,8 @@ http://103.205.133.19/hls/rtv.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sanshad tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg " group-title="Bangladeshi",Sanshad TV
 http://iptvbd.jagobd.com:1931/boishakhi/songsodtv-world.stream/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladeshi",GAZI TV
+http://103.81.104.118/hls/Gazi-TV.m3u8
 
 Bangla Online TV
 
@@ -354,13 +355,13 @@ http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Sky2(src01).uk(m3u4u)" tvg-name="Sky 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Sky_Two_logo_2020.svg/220px-Sky_Two_logo_2020.svg.png" group-title="Sports",Sky Sports 2 HD
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports",Sony Ten 1
-http://103.109.56.116/live/skyfeed1017/index.m3u8
+http://103.81.104.118/hls/stream40.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png" group-title="Sports",Sony Ten 2
-http://103.109.56.116/live/skyfeed1018/index.m3u8
+http://103.81.104.118/hls/stream39.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nv7nzHq.png" group-title="Sports",Sony Ten 3
 http://103.109.56.116/live/skyfeed1019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports",Sony Six
-http://103.109.56.116/live/skyfeed1025/index.m3u8
+http://103.81.104.118/hls/stream10.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports",Star Sports 1
 http://103.81.104.118/hls/stream15.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports",Star Sports 2
@@ -379,7 +380,8 @@ http://93.157.62.180/Supersport2/index.m3u8
 http://93.157.62.180/Supersport3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39RJJO4.jpg" group-title="Sports",Ten Cricket HD
 http://103.81.104.118/hls/stream34.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",PTV Sports
+http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
 Religious
 
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/proxy/fATun5fcD5nHmQ7ke-5WvHmqM-8Lz78kOIPQr-Fwc8NH6RzpTrD5DhzKfWCULQLvbfTIBRa49-cPCBkHuOppU9mXxbl4ClWZYRpX55A" group-title="Religious",Al Dawah
@@ -419,6 +421,8 @@ http://93.157.62.180/Supersport4/index.m3u8
 http://93.157.62.180/Supersport5/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/zeecinemahd.jpg" group-title="Bonus Channel",Zee Cinema HD
 http://103.81.104.118/hls/stream25.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="Bonus Channel", Star Movies Select HD
+http://103.81.104.118/hls/stream3.m3u8
 
 
 #EXTINF:-1 group-title="FTP HINDI MOVIES",Housefull

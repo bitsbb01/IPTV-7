@@ -424,8 +424,10 @@ Religious
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pMQM7rC.png" group-title="Religious",IQRA
 http://tv.univisionlive.net:25461/live/Ritu22/402235/358.m3u8
+http://tv.univisionlive.net:25461/live/Limon7003/Limon48/999.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U1XFyOx.png" group-title="Religious",Macca 
 http://tv.univisionlive.net:25461/live/Ritu22/402235/2198.m3u8
+http://tv.univisionlive.net:25461/live/Limon7003/Limon48/2225.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/12YZ6N3/unnamed-removebg-preview-1.png" group-title="Religious",Madani Tv
 http://103.205.133.19/hls/madanitv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Saudi Quran" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Religious",Saudi Quran

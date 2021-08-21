@@ -467,7 +467,8 @@ http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/87240
 http://208.115.215.42/Sony_Max_HD_02/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Bonus Channel", Zee Cinema HD
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Bonus Channel", T Sports DD
+http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/nk-sixs/chunks.m3u8
 
 #EXTINF:-1 group-title="FTP HINDI MOVIES",Housefull
 http://content.discoveryftp.net/Movies/Hindi/2010/Housefull/Housefull%20(2010)%20Hindi%201080p%20BluRay%20x264%20DD+5.1(224Kbps)%20ESubs%20-%202.3GB%20-%20MovCr.mkv

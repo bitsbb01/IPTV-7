@@ -1,7 +1,6 @@
 
 News
 
-
 #EXTM3U
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="News",ATN News
 http://iptvbd.jagobd.com:1931/boishakhi/atnws-sg.stream/chunks.m3u8
@@ -28,8 +27,7 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_30
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UyIJDcE.png" group-title="News", Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bAzFoQG.png" group-title="News", Times Now
-https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
-
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
 Bangladeshi
 
@@ -131,7 +129,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2y8Pt7g/2021-04-27-11-07-55.png" group-title="Bangla Online TV",Voice
 https://tempabs.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 
-
 Indian Bangla
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LeIa06D.png" group-title="Indian Bangla",ABP Ananda
@@ -153,19 +150,17 @@ http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla",Jalsha Movies HD 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ruposhi Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTvqb4PqrO8ohIPKojcopDpi7611EFFiyVt5tTfHEY_5zgUeKh&usqp=CAU" group-title="Indian Bangla",Ruposhi Bangla
-http://103.205.133.48/hls/ruposhibangla.m3u8
+https://d3t45f9t5re4rv.cloudfront.net/RUPASHI_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla",Sony Aath
 http://103.159.4.38:8080/IN-BANGLA-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Indian Bangla", Star Jalsha SD
-
+http://103.159.4.38:8080/IN-BANGLA-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha HD 
 http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla",Sun Bangla  HD#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla SD
 http://103.205.133.48/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla",Sun Bangla SD
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Zee_Bangla_New_Logo.jpg/220px-Zee_Bangla_New_Logo.jpg" group-title="Indian Bangla",Zee Bangla
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/87336
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla",Zee Bangla HD 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla SD
@@ -175,10 +170,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kXfuCMM.png" group-title="Indian Bangla", News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 
-
-
 Hindi
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKQU4HC.png" group-title="Hindi",&TV HD
 
@@ -216,7 +208,6 @@ https://d2bfv5viypt204.cloudfront.net/Z_ANMOL.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
-
 
 Hindi Movies
 
@@ -363,7 +354,7 @@ Documentary
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k4QjB5D/Daco-5201146.png" group-title="Documentary",Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="Documentary",Discovery HD
-http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
+https://d3ojtyqvwc3vcz.cloudfront.net/DISC.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laL2l7Q.png" group-title="Documentary",Discovery Science
 http://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://is.gd/3kLvW6" group-title="Documentary",Discovery Turbo
@@ -388,6 +379,13 @@ Sports
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ho0ch9s.png" group-title="Sports",Live Sports
 http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/3381.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjiki2SblaE5chW0QPeV1wAWHfdQ8i6SfJ0HK8KtX5L_UvLI5_&usqp=CAU" group-title="Sports",AD Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuU6Nxq7TV2GL_StL--Uo137rSOCG3T2mp5KrW6o3KrcVInHtV&usqp=CAU" group-title="Sports",AD Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AD Sports 3" tvg-logo="https://i.imgur.com/ERFDaE4.png" group-title="Sports",AD Sports 3
+https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
 #EXTINF:0 tvg-logo="https://www.pikpng.com/pngl/m/520-5206277_bein-sports-1-hd-clipart.png" group-title="Sports",Bein Sports 1
 http://stream.tvtap.live:8081/live/tr-bein1.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/sm/bein-sports-2-live.jpg" group-title="Sports",Bein Sports 2
@@ -437,22 +435,28 @@ http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
 
 Religious
 
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Al Aqsa TV" tvg-logo="https://www.terrorism-info.org.il/data/articles/Art_18131/hamas_099_3.jpg" group-title="Religious",Al Aqsa TV
+https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Al Istiqama TV" tvg-logo="https://img.iptvmate.net/5e933b41b3bdf92f6965c700.png" group-title="Religious",Al Istiqama TV
+http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/proxy/fATun5fcD5nHmQ7ke-5WvHmqM-8Lz78kOIPQr-Fwc8NH6RzpTrD5DhzKfWCULQLvbfTIBRa49-cPCBkHuOppU9mXxbl4ClWZYRpX55A" group-title="Religious",Al Dawah
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R9FLtGM/BTV-Live-removebg-preview.png" group-title="Religious",ATN Islamic
-
+http://iptvbd.jagobd.com:1931/boishakhi/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pMQM7rC.png" group-title="Religious",IQRA
 http://tv.univisionlive.net:25461/live/Ritu22/402235/358.m3u8
-http://tv.univisionlive.net:25461/live/Limon7003/Limon48/999.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Iqra Bangla TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg" group-title="Religious",Iqra Bangla TV
+https://rhridoy136.shortcm.li/iqrabangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U1XFyOx.png" group-title="Religious",Macca 
 http://tv.univisionlive.net:25461/live/Ritu22/402235/2198.m3u8
-http://tv.univisionlive.net:25461/live/Limon7003/Limon48/2225.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/12YZ6N3/unnamed-removebg-preview-1.png" group-title="Religious",Madani Tv
-http://103.205.133.19/hls/madanitv.m3u8
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Noor TV UK" tvg-logo="https://www.thenoor.tv/wp-content/uploads/2020/08/Noor-tv-heder-logo-copy-1.png" group-title="Religious",Noor TV UK
+https://ls1.serverdump.com/stream3.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Saudi Quran" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Religious",Saudi Quran
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?Live-TV™
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pMQM7rC.png" group-title="Religious",Saudi Sunnah
-
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
 
 Bonus Channel
 

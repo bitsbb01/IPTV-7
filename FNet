@@ -165,7 +165,6 @@ Hindi Movies
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi Movies",& Pictures
 http://babutv.aliflailabd.com:8989/and-picture/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest/scale-to-width-down/250?cb=20150308151545" group-title="Hindi Movies",B4U Movies
 http://babutv.aliflailabd.com:8989/b4u-movies/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.kcvnet.in/images/chanellogo/b_flix_movies_in.png" group-title="Hindi Movies",BFlix Movies
@@ -274,7 +273,7 @@ https://idvd.multitvsolution.com:443/idvo/discoversciencehindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Documentary",*Discovery Science English
 https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="Documentary",*Discovery Turbo
-http://idvd.multitvsolution.com/idvo/turboeng.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/History_TV18.png" group-title="Documentary",History Channel
 http://babutv.aliflailabd.com:8989/history-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ay4EtVz.png" group-title="Documentary",Nat Geo Wild HD
@@ -284,7 +283,7 @@ http://babutv.aliflailabd.com:8989/natgeo-people/index.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/221/117/png-clipart-logo-nat-geo-wild-national-geographic-television-channel-others-television-text-thumbnail.png" group-title="Documentary",NAT Geo WID
 http://babutv.aliflailabd.com:8989/natgeo-wild/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary",*National Geographic HD Hindi
-http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7JRmze.png" group-title="Documentary",TLC HD
 http://babutv.aliflailabd.com:8989/tlc-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentary",Travel XP HD 

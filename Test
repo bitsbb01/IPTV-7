@@ -55,7 +55,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel i" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png " group-title="Bangladeshi",Channel i
 http://iptvbd.jagobd.com:1931/boishakhi/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="Bangladeshi",Deepto HD
-
+http://103.81.104.118/hls/dipto.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangladeshi",Desh TV
 http://103.205.133.48/hls/deshtv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekushe tv" tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/ekushey-tv.jpg " group-title="Bangladeshi",Ekushe TV
@@ -157,7 +157,7 @@ http://103.159.4.38:8080/IN-BANGLA-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla",Sun Bangla  HD#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla SD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla",Sun Bangla SD
-
+http://103.81.104.118/hls/sunbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla",Zee Bangla HD 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla SD
@@ -207,11 +207,13 @@ https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 
 Hindi Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi Movies", And TV
+http://103.205.133.18/hls/andtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi Movies",& Pictures HD 
 http://103.205.133.48/hls/andpicture.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi Movies",& Pictures SD
-https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
+http://103.205.133.18/hls/andpicture.m3u8
 #EXTINF:-1 tvg-logo="https://indeltv.com/wp-content/uploads/2019/11/Channel_B4ukadak.png" group-title="Hindi Movies",B4U Kadak
 
 #EXTINF:-1 tvg-id="ext" tvg-name="BBO" tvg-logo="https://www.veset.tv//assets/Yupp_BBO_Logo_1704_3.png?1626854105" group-title="Hindi Movies",BBO
@@ -227,6 +229,9 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dtCdQF6/Zee-Action-new-removebg-preview.png" group-title="Hindi Movies",Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/evnv0Ni.jpg" group-title="Hindi Movies",Sony Max HD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi Movies", Star Gold 2 HD 
+http://103.81.104.118/hls/stargold2hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HMXPZmu.png" group-title="Hindi Movies", Sony Max 2
 
@@ -298,7 +303,7 @@ http://103.205.133.48/hls/gaanbangla.m3u8
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7K2YmRW/unnamed.png" group-title="Music",Masti Tv
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="Music",Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="Music",Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.bdtype.com/uploads/tv_image/rtv-music.png" group-title="Music",RTV Music
 
@@ -401,7 +406,7 @@ http://173.199.120.51/hls/ten2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports",Sony Six
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports",Star Sports 1
-
+http://103.81.104.118/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
 http://173.199.120.51/hls/chss1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports",Star Sports 2
@@ -421,7 +426,7 @@ http://93.157.62.180/Supersport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39RJJO4.jpg" group-title="Sports",Ten Cricket HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports HD
-http://137.59.155.77:8088/hls/06T_SportsBD.m3u8
+http://103.81.104.118/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",PTV Sports
 
 Religious

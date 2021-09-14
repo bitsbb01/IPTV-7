@@ -399,8 +399,10 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports",Sony Ten 1
 http://173.199.120.51/hls/ten1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png" group-title="Sports",Sony Ten 2
+https://google-me.cdn.booyah.live/hls/113132/83188269.m3u8?ZaNa_iptv.m3u8
 http://173.199.120.51/hls/ten2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nv7nzHq.png" group-title="Sports",Sony Ten 3
+https://google-me.cdn.booyah.live/hls/113132/83188269.m3u8?ZaNa_iptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports",Sony Six
 

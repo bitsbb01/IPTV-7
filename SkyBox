@@ -40,7 +40,7 @@ http://babutv.aliflailabd.com:8989/bangla-tv/index.m3u8
 EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Banglavision" tvg-logo="https://apkplz.net/storage/images/net/gurujibd/banglavision/net.gurujibd.banglavision_1.png " group-title="Bangladeshi",Banglavision
 http://babutv.aliflailabd.com:8989/bangla-vision/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png " group-title="Bangladeshi",*Bijoy TV
-http://iptvbd.jagobd.com:1931/boishakhi/bijoy00.stream/chunks.m3u8
+https://cdn.nowhdtime.com.bd/j-BijoyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boishakhitv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png " group-title="Bangladeshi",Boishakhi TV
 http://babutv.aliflailabd.com:8989/boishakhi-tv/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boishakhi tv plus" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/12/boishakhitvplus.jpeg " group-title="Bangladeshi",*Boishakhi TV Plus
@@ -153,7 +153,8 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 
 Hindi
 
-
+#EXTINF:-1 tvg-logo="https://bit.ly/3g0xwB7" group-title="* Hindi Movies",*Box Cinema
+PT1BTzFOVGJ1Z1haazVXYXZBSE00UXpYdWxtTGgxV1p1bDJRWTlrUXVNak0xWXpMenhHYXZRWFp1NVNhMzVHYnM1eWN1TUhjd0ZtTXExU013TVdMdDl5TDZNSGMwUkhh
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/tv18-colors-tv-hd-logo.jpg" group-title="Hindi",Colors HD
 http://babutv.aliflailabd.com:8989/colors-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",Sony Entertainment
@@ -176,6 +177,8 @@ http://103.205.133.18/hls/andtv.m3u8
 http://babutv.aliflailabd.com:8989/b4u-movies/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.kcvnet.in/images/chanellogo/b_flix_movies_in.png" group-title="Hindi Movies",BFlix Movies
 http://babutv.aliflailabd.com:8989/bflix-movie/index.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3g0xwB7" group-title="* Hindi Movies",*Box Cinema
+PT1BTzFOVGJ1Z1haazVXYXZBSE00UXpYdWxtTGgxV1p1bDJRWTlrUXVNak0xWXpMenhHYXZRWFp1NVNhMzVHYnM1eWN1TUhjd0ZtTXExU013TVdMdDl5TDZNSGMwUkhh
 #EXTINF:-1 tvg-id="ext" tvg-name="BBO" tvg-logo="https://www.veset.tv//assets/Yupp_BBO_Logo_1704_3.png?1626854105" group-title="Hindi Movies",*BBO
 https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="BBO Classic" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/BBO-Classic-white.png" group-title="Hindi Movies",*BBO Classic
@@ -201,6 +204,8 @@ http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 http://babutv.aliflailabd.com:8989/zee-cinema/index.m3u8
 #EXTINF:0 group-title="Hindi Movies",*Zee Action
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/31Zf7jp" group-title="* Hindi Movies",*WOW Cinema One
+PWdUZHowbUw0VkdadWwyTHdCRE8wOGxicDVTWnU5VVl0Vm1icE4wVlBkbEx3UVRPeTh5Y3NoMkwwVm1idWsyZHV4R2J1TW5MekJIY2hKamF0WXpNd01XTHQ5eUw2TUhjMFJIYQ==
 
 
 English

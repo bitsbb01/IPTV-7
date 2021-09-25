@@ -125,8 +125,7 @@ Indian Bangla
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LeIa06D.png" group-title="Indian Bangla",*ABP Ananda
 https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla",**Colors Bangla
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_SD-BANG-COLORS/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa26f6812ba48a2cfcbf1db217571cb1fd89017e3a0479dee6441491941c17d496da61a5992ce34f2760eccc4421fd34f899e39f853818ba54f0169f5b73dc53695118a2c538d51bd85c35b717cf6d68123&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
-https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+http://jupiter.bdcabletv.com/ColorsBangla_ENC/video.m3u8
 http://babutv.aliflailabd.com:8989/colors-bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla",*Colors Bangla
 
@@ -166,7 +165,7 @@ http://103.205.133.18/hls/andtv.m3u8
 http://babutv.aliflailabd.com:8989/colors-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",Sony Entertainment
 http://babutv.aliflailabd.com:8989/sony-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi Entertainment", Star Plus HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD 
 http://jupiter.bdcabletv.com/StarPlus/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BKZy8ye.jpg" group-title="Hindi",Star Plus
 http://babutv.aliflailabd.com:8989/star-plus/index.m3u8
@@ -181,8 +180,6 @@ Hindi Movies
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8u8TbPx.png" group-title="Hindi Movies",*& Pictures
 http://103.205.133.18/hls/andpicture.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="&xplor HD" tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/&flix-hd.gif" group-title="Hindi Movies",*&xplor HD
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest/scale-to-width-down/250?cb=20150308151545" group-title="Hindi Movies",B4U Movies
 http://babutv.aliflailabd.com:8989/b4u-movies/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.kcvnet.in/images/chanellogo/b_flix_movies_in.png" group-title="Hindi Movies",BFlix Movies
@@ -202,20 +199,22 @@ https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 http://babutv.aliflailabd.com:8989/setmax/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Movies",*Zee Cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi Movies", Zee Bolywood
+http://indo51.gcdn.co/hindi-ZEEBOLLYWOOD/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Hindi Movies",*Zee Action
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 
 English
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="English",*& Prive HD
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VFn2BUB.jpg" group-title="English",**& Flix
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_ANDFLIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5f98abc05d35144b0842889500df1e9fd27885b72a866b2df851f0d5a0607245acc438455a2dc039981889e16cb81ae1dca1989d037e7e7c2e542fc5743c7553fdd64bd4268cd5876aa2c4743d3b&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+
 http://babutv.aliflailabd.com:8989/and-flix/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English",AXN 
 http://babutv.aliflailabd.com:8989/axn-hd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="English",*Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/3.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JKkbBdC/favpng-logo-hbo-now.png" group-title="English",HBO
 http://babutv.aliflailabd.com:8989/hbo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JKkbBdC/favpng-logo-hbo-now.png" group-title="English",*HBO
@@ -226,6 +225,8 @@ http://tv.aliflailabd.com:8989/mn-hd/index.m3u8
 http://babutv.aliflailabd.com:8989/sony-pix-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English",Star Movies
 http://tv.aliflailabd.com:8989/star-movies-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English",*Zee Cafe HD
+https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
 
 BD-IPTV
 
@@ -382,7 +383,7 @@ https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/History_TV18.png" group-title="Documentary",History Channel
 http://babutv.aliflailabd.com:8989/history-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ay4EtVz.png" group-title="Documentary",**Nat Geo Wild HD
-
+http://stream.tvtap.live:8081/live/us-natgeo.stream/playlist.m3u8
 http://babutv.aliflailabd.com:8989/natgeo-in/index.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/221/117/png-clipart-logo-nat-geo-wild-national-geographic-television-channel-others-television-text-thumbnail.png" group-title="Documentary",NAT Geo WID
 http://babutv.aliflailabd.com:8989/natgeo-wild/index.m3u8
@@ -438,4 +439,6 @@ Religious
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R9FLtGM/BTV-Live-removebg-preview.png" group-title="Religious",ATN Islamic
 http://babutv.aliflailabd.com:8989/atnislamictv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Religious",Peace Tv Bangla
+http://103.205.133.48/hls/peacetv.m3u8
 

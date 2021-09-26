@@ -4,7 +4,7 @@ News
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="News",ATN News
 http://babutv.aliflailabd.com:8989/atn-news/index.m3u8
-#EXTINF:-1 tvg-logo=
+#EXTINF:-1 tvg-
 https://rhridoy136.shortcm.li/atnnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="News",Channel 24
 http://babutv.aliflailabd.com:8989/channel24/index.m3u8
@@ -33,12 +33,12 @@ Bangladeshi
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ananda tv" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/4/43/%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg/280px-%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg " group-title="Bangladeshi",*Ananda TV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangladeshi",**Asian TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangladeshi",*Asian TV 
 http://103.205.133.18/hls/asiantv.m3u8
 http://babutv.aliflailabd.com:8989/asiantv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangladeshi",ATN Bangla
 http://babutv.aliflailabd.com:8989/atn-bangla/index.m3u8 
-#EXTINF:-1 tvg-
+#EXTINF:-1 tvg
 http://103.205.133.18/hls/atnbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangladeshi",Bangla TV
 http://babutv.aliflailabd.com:8989/bangla-tv/index.m3u8
